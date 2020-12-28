@@ -1,16 +1,1 @@
-#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg"group-title="24_7",Bob Esponja
-#EXTVLCOPT:http-user-agent=paraplayer
-http://dominiopersonal.xyz:25464/paraplayer/jQva6WnRd6/293
-
-#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg"group-title="24_7",Bob Esponja
-http://dominiopersonal.xyz:25464/paraplayer/jQva6WnRd6/293
-
-
-#EXTINF:-1 tvg-name="Bob Esponja" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg"group-title="24_7",Bob Esponja
-http://138.201.49.141:25464/paraplayer/jQva6WnRd6/293?token=ShMNUhAJQwkXUFYGUwYGXwcDUFUAUFQPB1MOAQAGA1pXBgBRUFcCVgFDSBFGQUdcVgg7Xl0QCwQIVxsbQBAHS25YARFZQ1UBAkNIEUFcWFwVX1UBCQsADwFRAQEZQRJQVRNfEVdWUAYXTUZWTUFQS1kECGhdV0dfUgEVA1sWDlUdEwpdPAUEXlQPABEPFwUbG0cNREkQC1hECFsVFwELTUNQEVZBW0MEAVBGHxdWWkxZERZOGwgTZnRGGxtQGxZcX0IMXA1DWxFBEkYfF1xGZkUAF0NLV1BbVBYVAxdTQBUTXARLPAIOXVsEB0dcWltKFV9GBgwCARQdRlpWWwoWVkNuFVoHQ1sRDFVTEUg=
-
-
-#EXTINF:-1 tvg-name="AMC" tvg-logo= "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1200px-AMC_logo_2019.svg.png"group-title="Canal",AMC
-#EXTVLCOPT:http-user-agent=paraplayer
-http://dominiopersonal.xyz:25464/paraplayer/jQva6WnRd6/6
-
+#EXTINF:-1 tvg-name
