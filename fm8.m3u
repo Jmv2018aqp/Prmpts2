@@ -1,782 +1,550 @@
-#EXTINF:-1 tvg-name="¡Asu Mare! (2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xMRtfaygHhGfYGEyTBxEVIKiKk.jpg"group-title="Sagas",¡Asu Mare! (2013)
-http://vod.tuxchannel.tv/peliculas/720/asu%20mare%202013.mkv
-#EXTINF:-1 tvg-name="¿Que Paso Ayer?" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqeim09TdaflSvPNVnCTBjUHlKu.jpg"group-title="Sagas",¿Que Paso Ayer?
-http://tux-vod.dynu.com/peliculas/720/the%20hangover.mkv
-#EXTINF:-1 tvg-name="¿Qué Pasó Ayer? Parte II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQfURiv7Ho6ozviSRv519jXSpHD.jpg"group-title="Sagas",¿Qué Pasó Ayer? Parte II
-http://tux-vod.dynu.com/peliculas/720/the%20hangover%20part%20II.mkv
-#EXTINF:-1 tvg-name="¿Qué Pasó Ayer? Parte III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg"group-title="Sagas",¿Qué Pasó Ayer? Parte III
-http://tux-vod.dynu.com/peliculas/720/the%20hangover%20part%20III.mkv
-#EXTINF:-1 tvg-name="007  GoldenEye (1995)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/plvWFyL4tQXgWOae0P8A4hECWLD.jpg"group-title="Sagas",007  GoldenEye (1995)
-http://vod.tuxchannel.tv/peliculas/720/goldeneye.mkv
-#EXTINF:-1 tvg-name="007 Al Servicio Secreto De Su Majestad 1969" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sDwfb63S7bNkKrmOpOcNWJItLVF.jpg"group-title="Sagas",007 Al Servicio Secreto De Su Majestad 1969
-http://vod.tuxchannel.tv/peliculas/720/on%20her%20majestys%20secret%20service.mkv
-#EXTINF:-1 tvg-name="007 Con Licencia Para Matar (1989)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pwPSNqyZqrxV4tWpgQFnRjAeRD1.jpg"group-title="Sagas",007 Con Licencia Para Matar (1989)
-http://vod.tuxchannel.tv/peliculas/720/licence%20to%20kill.mkv
-#EXTINF:-1 tvg-name="007 Contra El Dr No (1962)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1J8cEkKqX2R4nN3FgL0N2rEJSrV.jpg"group-title="Sagas",007 Contra El Dr No (1962)
-http://vod.tuxchannel.tv/peliculas/720/dr%20no.mkv
-#EXTINF:-1 tvg-name="007 Desde Rusia Con Amor (1963)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mw8Y0JNGhFmqHTGKfVqnMkT8ni5.jpg"group-title="Sagas",007 Desde Rusia Con Amor (1963)
-http://vod.tuxchannel.tv/peliculas/720/from%20russia%20with%20love.mkv
-#EXTINF:-1 tvg-name="007 El Hombre De La Pistola De Oro (1974)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kX5rAb7w1c5MCfCDDwdVlRddOpC.jpg"group-title="Sagas",007 El Hombre De La Pistola De Oro (1974)
-http://vod.tuxchannel.tv/peliculas/720/the%20man%20with%20the%20golden%20gun.mkv
-#EXTINF:-1 tvg-name="007 En La Mira De Los Asesinos (1985)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygkLLN9sNMkkwRY6rtpljNCKcDw.jpg"group-title="Sagas",007 En La Mira De Los Asesinos (1985)
-http://vod.tuxchannel.tv/peliculas/720/a%20view%20to%20a%20kill.mkv
-#EXTINF:-1 tvg-name="007 La Espía Que Me Amó (1977)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bVijn81lkbtpNLQGTF1wfyU6HmU.jpg"group-title="Sagas",007 La Espía Que Me Amó (1977)
-http://vod.tuxchannel.tv/peliculas/720/the%20spy%20who%20loved%20me.mkv
-#EXTINF:-1 tvg-name="007 Nunca Digas Nunca Jamas (1983)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLfAIRwbd14HihotsomoVZbIt2K.jpg"group-title="Sagas",007 Nunca Digas Nunca Jamas (1983)
-http://vod.tuxchannel.tv/peliculas/720/never%20say%20never%20again.mkv
-#EXTINF:-1 tvg-name="007 Operacion Trueno (1965)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmeCP9Jh5FJstIwYulK88u6TGB.jpg"group-title="Sagas",007 Operacion Trueno (1965)
-http://vod.tuxchannel.tv/peliculas/720/thunderball.mkv
-#EXTINF:-1 tvg-name="007 Operacion Trueno (1965)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oSmeCP9Jh5FJstIwYulK88u6TGB.jpg"group-title="Sagas",007 Operacion Trueno (1965)
-http://vod.tuxchannel.tv/peliculas/720/tomorrow%20never%20dies.mkv
-#EXTINF:-1 tvg-name="007 Quantum of Solace (2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jN5YDjkjvcp0pX3zEVRJpnhcX7k.jpg"group-title="Sagas",007 Quantum of Solace (2008)
-http://vod.tuxchannel.tv/peliculas/720/quantum%20of%20solace.mkv
-#EXTINF:-1 tvg-name="007 Solo Se Vive Dos Veces (1967)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMNRcC9NUaR1L5awvfLYGqcLkOq.jpg"group-title="Sagas",007 Solo Se Vive Dos Veces (1967)
-http://vod.tuxchannel.tv/peliculas/720/you%20only%20live%20twice.mkv
-#EXTINF:-1 tvg-name="007 Spectre.-(2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aD8fQF2WFAvMMxmMHHj2RXz2hwP.jpg"group-title="Sagas",007 Spectre.-(2015)
-http://vod.tuxchannel.tv/peliculas/720/spectre.mkv
-#EXTINF:-1 tvg-name="007: Casino Royale (2006)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmRTS3WrXRi8GJdpDae1NifYNwx.jpg"group-title="Sagas",007: Casino Royale (2006)
-http://vod.tuxchannel.tv/peliculas/720/casino%20royal.mkv
-#EXTINF:-1 tvg-name="007: Contra Goldfinger (1964)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6lDytIehZXJUD56K0XbwpfQoVnZ.jpg"group-title="Sagas",007: Contra Goldfinger (1964)
-http://vod.tuxchannel.tv/peliculas/720/goldfinger%20007.mkv
-#EXTINF:-1 tvg-name="007: Los Diamantes Son Eternos (1971)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zV5qtjJws8jBA2QCOIJswvZw6b5.jpg"group-title="Sagas",007: Los Diamantes Son Eternos (1971)
-http://vod.tuxchannel.tv/peliculas/720/diamonds%20are%20forever.mkv
-#EXTINF:-1 tvg-name="007: Misión Espacial (1979)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyisfNtn0cmQA4e39H9VCa5CkN6.jpg"group-title="Sagas",007: Misión Espacial (1979)
-http://vod.tuxchannel.tv/peliculas/720/moonraker.mkv
-#EXTINF:-1 tvg-name="007: Octopussy Contra Las Chicas Mortales (1983)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d09gjEZ7zGjimVCdkjZsrp3UWbJ.jpg"group-title="Sagas",007: Octopussy Contra Las Chicas Mortales (1983)
-http://vod.tuxchannel.tv/peliculas/720/octopussy.mkv
-#EXTINF:-1 tvg-name="007: Operación Skyfall (2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cHyNrZzi5txPyseWEIba9WK7NA.jpg"group-title="Sagas",007: Operación Skyfall (2012)
-http://vod.tuxchannel.tv/peliculas/720/skyfall.mkv
-#EXTINF:-1 tvg-name="007: Otro Día Para Morir (2002)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmpgo09w8qQ8rhbA3q22PYpJcmz.jpg"group-title="Sagas",007: Otro Día Para Morir (2002)
-http://vod.tuxchannel.tv/peliculas/720/die%20another%20day.mkv
-#EXTINF:-1 tvg-name="007: Solo Para Tus Ojos (1981)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rMd3KkWy1K7qeZLFlFKY0SSMnPx.jpg"group-title="Sagas",007: Solo Para Tus Ojos (1981)
-http://vod.tuxchannel.tv/peliculas/720/for%20your%20eyes%20only.mkv
-#EXTINF:-1 tvg-name="007: Su Nombre Es Peligro (1987)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwJV5Vr4XbLWfPqYUTCJwTEhZUq.jpg"group-title="Sagas",007: Su Nombre Es Peligro (1987)
-http://vod.tuxchannel.tv/peliculas/720/the%20living%20daylights.mkv
-#EXTINF:-1 tvg-name="007: Vive Y Deja Morir (1973)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBxNKgTflfmNy2XFiOQbWwfuohW.jpg"group-title="Sagas",007: Vive Y Deja Morir (1973)
-http://vod.tuxchannel.tv/peliculas/720/live%20and%20let%20die.mkv
-#EXTINF:-1 tvg-name="12 Horas Para Sobrevivir (2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg"group-title="Sagas",12 Horas Para Sobrevivir (2014)
-http://vod.tuxchannel.tv/peliculas/720/the%20purge%20anarchy.mkv
-#EXTINF:-1 tvg-name="12 Horas Para Sobrevivir: El Año De La Elección._(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg"group-title="Sagas",12 Horas Para Sobrevivir: El Año De La Elección._(2016)
-http://vod.tuxchannel.tv/peliculas/720/the%20purge%20election%20year.mkv
-#EXTINF:-1 tvg-name="12 Horas Para Sobrevivir: El Inicio  (The Purge 2)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aO1DumNAMId7aYZyWScDRx4AQfu.jpg"group-title="Sagas",12 Horas Para Sobrevivir: El Inicio  (The Purge 2)
-http://tux-vod.dynu.com/peliculas/720/the%20purge%20election%20year.mkv
-#EXTINF:-1 tvg-name="12 Rounds 2: Reloaded" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/btThjvVC4lOqE95F9iVK118kpj2.jpg"group-title="Sagas",12 Rounds 2: Reloaded
-http://tux-vod.dynu.com/peliculas/720/12%20rounds%20reloaded.mkv
-#EXTINF:-1 tvg-name="12 Rounds 3 Lockdown" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmBYPzsPUiVKhoATQauNwRfzUlf.jpg"group-title="Sagas",12 Rounds 3 Lockdown
-http://tux-vod.dynu.com/peliculas/720/12%20rounds%203%20lockdown.mkv
-#EXTINF:-1 tvg-name="300" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg"group-title="Sagas",300
-http://tux-vod.dynu.com/peliculas/720/300.mkv
-#EXTINF:-1 tvg-name="300  (2):  El Nacimiento De Un Imperio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg"group-title="Sagas",300  (2):  El Nacimiento De Un Imperio
-http://tux-vod.dynu.com/peliculas/720/300%20rise%20of%20an%20empire.mkv
-#EXTINF:-1 tvg-name="300 (2006)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg"group-title="Sagas",300 (2006)
-http://vod.tuxchannel.tv/peliculas/720/300.mkv
-#EXTINF:-1 tvg-name="300 El Origen De Un Imperio:_(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbt5wY4rCe63JBmNYnJytJpFhnm.jpg"group-title="Sagas",300 El Origen De Un Imperio:_(2014)
-http://vod.tuxchannel.tv/peliculas/720/300%20rise%20of%20an%20empire.mkv
-#EXTINF:-1 tvg-name="Ace Ventura Operación África (1995)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg"group-title="Sagas",Ace Ventura Operación África (1995)
-http://vod.tuxchannel.tv/peliculas/720/ace%20ventura%20when%20nature%20calls.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg"group-title="Sagas",Actividad Paranormal 2
-http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%202.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal 2 (2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg"group-title="Sagas",Actividad Paranormal 2 (2010)
-http://vod.tuxchannel.tv/peliculas/720/paranormal%20activity%202.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg"group-title="Sagas",Actividad Paranormal 4
-http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%204.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal 4 (2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg"group-title="Sagas",Actividad Paranormal 4 (2012)
-http://vod.tuxchannel.tv/peliculas/720/paranormal%20activity%204.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal Dimension Fantasma" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg"group-title="Sagas",Actividad Paranormal Dimension Fantasma
-http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%20the%20ghost%20dimension.mkv
-#EXTINF:-1 tvg-name="Actividad Paranormal: La Dimensión Fantasma (2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg"group-title="Sagas",Actividad Paranormal: La Dimensión Fantasma (2015)
-http://vod.tuxchannel.tv/peliculas/720/paranormal%20activity%20the%20ghost%20dimension.mkv
-#EXTINF:-1 tvg-name="Alerta En Lo Profundo (1999)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg"group-title="Sagas",Alerta En Lo Profundo (1999)
-http://vod.tuxchannel.tv/peliculas/720/deep%20blue%20sea.mkv
-#EXTINF:-1 tvg-name="Alerta En Lo Profundo 3 (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96rOUJEbHrhVW7JYzPJm5ZyMDg0.jpg"group-title="Sagas",Alerta En Lo Profundo 3 (2020)
-http://vod.tuxchannel.tv/peliculas/720/deep%20blue%20sea%203%202020.mkv
-#EXTINF:-1 tvg-name="Alerta Maxima (1992)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iPTjwvyBiKNW86e0MOk30r64zWQ.jpg"group-title="Sagas",Alerta Maxima (1992)
-http://vod.tuxchannel.tv/peliculas/720/under%20siege.mkv
-#EXTINF:-1 tvg-name="Alerta Maxima 2 (1992)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40iMlM2WtCmpsPRbL6gVTiTKI7.jpg"group-title="Sagas",Alerta Maxima 2 (1992)
-http://vod.tuxchannel.tv/peliculas/720/under%20siege%202%20dark%20territory.mkv
-#EXTINF:-1 tvg-name="Alicia A Través Del Espejo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i804UHtu68Hn9uDc1y9eBTobMZG.jpg"group-title="Sagas",Alicia A Través Del Espejo
-http://tux-vod.dynu.com/peliculas/720/alice%20throught%20the%20looking%20glass.mkv
-#EXTINF:-1 tvg-name="Alicia A Través Del Espejo (2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i804UHtu68Hn9uDc1y9eBTobMZG.jpg"group-title="Sagas",Alicia A Través Del Espejo (2016)
-http://vod.tuxchannel.tv/peliculas/720/alice%20throught%20the%20looking%20glass.mkv
-#EXTINF:-1 tvg-name="Alicia En El País De Las Maravillas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTL10rosTEhOZp8E3zoniXddyRC.jpg"group-title="Sagas",Alicia En El País De Las Maravillas
-http://tux-vod.dynu.com/peliculas/720/alice%20in%20wonderland.mkv
-#EXTINF:-1 tvg-name="Alicia En El Pais De Las Maravillas (2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTL10rosTEhOZp8E3zoniXddyRC.jpg"group-title="Sagas",Alicia En El Pais De Las Maravillas (2010)
-http://vod.tuxchannel.tv/peliculas/720/alice%20in%20wonderland.mkv
-#EXTINF:-1 tvg-name="Alien - El Octavo Pasajero" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg"group-title="Sagas",Alien - El Octavo Pasajero
-http://tux-vod.dynu.com/peliculas/720/alien.mkv
-#EXTINF:-1 tvg-name="Alien: La Resurrección" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZRlkaeMBwj6SByLNkBv8m8r6JU.jpg"group-title="Sagas",Alien: La Resurrección
-http://tux-vod.dynu.com/peliculas/720/alien%20resurrection.mkv
-#EXTINF:-1 tvg-name="Aliens vs. Depredador 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg"group-title="Sagas",Aliens vs. Depredador 2
-http://tux-vod.dynu.com/peliculas/720/avp%20alien%20vs%20predator.mkv
-#EXTINF:-1 tvg-name="Aliens vs. Depredador 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg"group-title="Sagas",Aliens vs. Depredador 2
-http://tux-vod.dynu.com/peliculas/720/avpr%20aliens%20vs%20predator%20requiem.mkv
-#EXTINF:-1 tvg-name="Alvin y las Ardillas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ju6J4oIdme5PZhI3DMfoZ22L3C.jpg"group-title="Sagas",Alvin y las Ardillas
-http://tux-vod.dynu.com/peliculas/720/alvin%20and%20the%20chipmunks.mkv
-#EXTINF:-1 tvg-name="Alvin y las Ardillas 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHrA0QntJaPayUM0aSbtLufssYw.jpg"group-title="Sagas",Alvin y las Ardillas 2
-http://tux-vod.dynu.com/peliculas/720/alvin%20and%20the%20chipmunks%202.mkv
-#EXTINF:-1 tvg-name="Alvin y las Ardillas 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tVzpyRUZ3LwEZmK7gpvmKVFBqp6.jpg"group-title="Sagas",Alvin y las Ardillas 3
-http://tux-vod.dynu.com/peliculas/720/alvin%20and%20the%20chipmunks%20chip%20wrecked.mkv
-#EXTINF:-1 tvg-name="Alvin y las Ardillas 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cxmht51M10phQ9Z0IYgCgJVOSKh.jpg"group-title="Sagas",Alvin y las Ardillas 4
-http://tux-vod.dynu.com/peliculas/720/alvin%20and%20the%20chipmunks%20the%20road%20chip.mkv
-#EXTINF:-1 tvg-name="American Pie (1999)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tnuUgdlpB6gVEqieR7TrEtYL23T.jpg"group-title="Sagas",American Pie (1999)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%20unrated.mkv
-#EXTINF:-1 tvg-name="American Pie 2 (2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3vCYQf5zQUFnG2dZptuvZlO0alE.jpg"group-title="Sagas",American Pie 2 (2001)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%202%20unrated.mkv
-#EXTINF:-1 tvg-name="American Pie 3 (2003)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zd6vScAUAp3blRMa2ZCsFY2SUNk.jpg"group-title="Sagas",American Pie 3 (2003)
-http://vod.tuxchannel.tv/peliculas/720/american%20wedding%20unrated.mkv
-#EXTINF:-1 tvg-name="American Pie 4 (2005)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aH2DwyuUi63o65Ciw9sUfmNMFZg.jpg"group-title="Sagas",American Pie 4 (2005)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%20band%20camp.mkv
-#EXTINF:-1 tvg-name="American Pie 5 (2006)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg"group-title="Sagas",American Pie 5 (2006)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%20presents%20the%20naked%20mile.mkv
-#EXTINF:-1 tvg-name="American Pie 6 (2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pE99yrphO0UsQRd9bFn8zu4HXuc.jpg"group-title="Sagas",American Pie 6 (2007)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%20beta%20house.mkv
-#EXTINF:-1 tvg-name="American Pie 7 (2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4WDbcnxUdhBNtMv8BzO1agc1ozp.jpg"group-title="Sagas",American Pie 7 (2009)
-http://vod.tuxchannel.tv/peliculas/720/american%20pie%20presents%20the%20book%20of%20love.mkv
-#EXTINF:-1 tvg-name="American Pie 8 (2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2HyHcHP17VU5QCPbiFbZEtMKSis.jpg"group-title="Sagas",American Pie 8 (2012)
-http://vod.tuxchannel.tv/peliculas/720/american%20reunion%20unrated.mkv
-#EXTINF:-1 tvg-name="Anaconda" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtuBvGph8BnqgfFzIDMaVg5F8GB.jpg"group-title="Sagas",Anaconda
-http://tux-vod.dynu.com/peliculas/720/anaconda%201997.mkv
-#EXTINF:-1 tvg-name="Anacondas 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO7PK08LkIXluGjqFvvU1jWjmVV.jpg"group-title="Sagas",Anacondas 2
-http://tux-vod.dynu.com/peliculas/720/anacondas%20the%20hunt%20for%20the%20blood%20orchid%202004.mkv
-#EXTINF:-1 tvg-name="Animales Fantásticos Y Dónde Encontrarlos(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLgSLx9dn2YYbwVk8p0F28KIU8C.jpg"group-title="Sagas",Animales Fantásticos Y Dónde Encontrarlos(2016)
-http://tux-vod.dynu.com/peliculas/720/fantastic%20beast%20and%20where%20to%20find%20them.mkv
-#EXTINF:-1 tvg-name="Animales Fantásticos: Los Crímenes De Grindelwald(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4BabO5lvfXnIsVIBLDpN2wLORz.jpg"group-title="Sagas",Animales Fantásticos: Los Crímenes De Grindelwald(2018)
-http://tux-vod.dynu.com/peliculas/720/animales%20fantasticos%20los%20crimenes%20de%20grindelwald.mkv
-#EXTINF:-1 tvg-name="Annabelle" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCPwduyyqCrIpSk1kA0p8lwjveB.jpg"group-title="Sagas",Annabelle
-http://tux-vod.dynu.com/peliculas/720/annabell.mkv
-#EXTINF:-1 tvg-name="Annabelle 2: La Creación" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RVhY8O8AoL28aEQ59gAJAM2SFs.jpg"group-title="Sagas",Annabelle 2: La Creación
-http://tux-vod.dynu.com/peliculas/720/annabelle%20creation.mkv
-#EXTINF:-1 tvg-name="Ant-Man El Hombre Hormiga" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg"group-title="Sagas",Ant-Man El Hombre Hormiga
-http://tux-vod.dynu.com/peliculas/720/antman%20el%20hombre%20hormiga.mkv
-#EXTINF:-1 tvg-name="Ant-Man y la Avispa (2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yk2gpGHkbnyjLSxmhH2rEXTaeeB.jpg"group-title="Sagas",Ant-Man y la Avispa (2018)
-http://tux-vod.dynu.com/peliculas/720/ant%20man%20y%20la%20avispa.mkv
-#EXTINF:-1 tvg-name="Asu Mare! 2 (2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1pnmyc46DrjSrm7See7WLmfkH1k.jpg"group-title="Sagas",Asu Mare! 2 (2015)
-http://vod.tuxchannel.tv/peliculas/720/asu%20mare%202%202015.mkv
-#EXTINF:-1 tvg-name="Avengers: Endgame" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/br6krBFpaYmCSglLBWRuhui7tPc.jpg"group-title="Sagas",Avengers: Endgame
-https://stalkertvlatino.com/DISE%c3%91ODEMODAELSOLYLALUNAYLASESTRELLABRILLARENTUAUSENCIA/6059.mkv
-#EXTINF:-1 tvg-name="Avengers: Era De Ultrón" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Lz6h5rlCFNNyCZRaRJ2ZjtBnAE.jpg"group-title="Sagas",Avengers: Era De Ultrón
-https://stalkertvlatino.com/DISE%c3%91ODEMODAELSOLYLALUNAYLASESTRELLABRILLARENTUAUSENCIA/6057.mkv
-#EXTINF:-1 tvg-name="Avengers: Infinity Wars" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksBQ4oHQDdJwND8H90ay8CbMihU.jpg"group-title="Sagas",Avengers: Infinity Wars
-https://stalkertvlatino.com/DISE%c3%91ODEMODAELSOLYLALUNAYLASESTRELLABRILLARENTUAUSENCIA/6058.mkv
-#EXTINF:-1 tvg-name="Aviones Equipo De Rescate(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZbuCIMWulgQEWdZDzga3n6L8LW.jpg"group-title="Sagas",Aviones Equipo De Rescate(2014)
-http://tux-vod.dynu.com/peliculas/720/planes%20fire%20y%20rescue.mkv
-#EXTINF:-1 tvg-name="Aviones(2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6S5JjRheyl3oyLmJVcxcQ8yqDU3.jpg"group-title="Sagas",Aviones(2013)
-http://tux-vod.dynu.com/peliculas/720/disneys%20planes.mkv
-#EXTINF:-1 tvg-name="Balto La Leyenda Del Perro Esquimal(1995)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAZ7dMCNWDxylwtz70J1WvEuXFt.jpg"group-title="Sagas",Balto La Leyenda Del Perro Esquimal(1995)
-http://tux-vod.dynu.com/peliculas/720/balto.mkv
-#EXTINF:-1 tvg-name="Bumblebee 2018" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lOW8vBMJqWHWcMxHbigVAytqiBn.jpg"group-title="Sagas",Bumblebee 2018
-http://tux-vod.dynu.com/peliculas/720/bumblebee%202018.mkv
-#EXTINF:-1 tvg-name="Busqueda Implacable 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2RQkFjXnqLxc6F8H4VsitxvSyuk.jpg"group-title="Sagas",Busqueda Implacable 2
-http://tux-vod.dynu.com/peliculas/720/taken%202.mkv
-#EXTINF:-1 tvg-name="Busqueda Implacable 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCffcXqpH002rvSFt8AUnIC376s.jpg"group-title="Sagas",Busqueda Implacable 3
-http://tux-vod.dynu.com/peliculas/720/taken%203.mkv
-#EXTINF:-1 tvg-name="Busqueda Implacable(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dTshd9hjQMWyRijWucqszKPrp5z.jpg"group-title="Sagas",Busqueda Implacable(2008)
-http://tux-vod.dynu.com/peliculas/720/taken.mkv
-#EXTINF:-1 tvg-name="Camino Hacia El Terror" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6IVGK3AGF1OHmAjOE7vonrUYkM.jpg"group-title="Sagas",Camino Hacia El Terror
-http://tux-vod.dynu.com/peliculas/720/km%20666%20desvio%20al%20infierno.mkv
-#EXTINF:-1 tvg-name="Camino Hacia El Terror 2: Final Mortal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chskPoHeqWIiWzeZLpuQSeXLBtM.jpg"group-title="Sagas",Camino Hacia El Terror 2: Final Mortal
-http://tux-vod.dynu.com/peliculas/720/wrong%20turn%202%20dead%20end.mkv
-#EXTINF:-1 tvg-name="Camino Hacia El Terror 3: Abandonado Para Morir" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta9rVyblrR53L8hSzq0Vxg2a4OB.jpg"group-title="Sagas",Camino Hacia El Terror 3: Abandonado Para Morir
-http://tux-vod.dynu.com/peliculas/720/wrong%20turn%203%20left%20for%20dead.mkv
-#EXTINF:-1 tvg-name="Camino Hacia el Terror 4: Inicio Sangriento" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4yyI3YLbcOApCT3KcEW6FCfzLM.jpg"group-title="Sagas",Camino Hacia el Terror 4: Inicio Sangriento
-http://tux-vod.dynu.com/peliculas/720/wrong%20turn%204%20bloody%20beginnings.mkv
-#EXTINF:-1 tvg-name="Camino Hacia El Terror 5: El Linaje Caníbal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3nuFv4k5TUJEKZxqrbG9cdNKr2.jpg"group-title="Sagas",Camino Hacia El Terror 5: El Linaje Caníbal
-http://tux-vod.dynu.com/peliculas/720/wrong%20turn%205.mkv
-#EXTINF:-1 tvg-name="Camino Hacia El Terror 6: Herencia De Muerte" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg"group-title="Sagas",Camino Hacia El Terror 6: Herencia De Muerte
-http://tux-vod.dynu.com/peliculas/720/wrong%20turn%206%20last%20resort.mkv
-#EXTINF:-1 tvg-name="Capitán América y el Soldado del Invierno" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QBRnyvJHD7slOlX6aukvMwcEu.jpg"group-title="Sagas",Capitán América y el Soldado del Invierno
-http://tux-vod.dynu.com/peliculas/720/captain%20america%20the%20winter%20solder.mkv
-#EXTINF:-1 tvg-name="Capitán América: Civil War" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPPy7tCfglppQo6J9nGwU6UmJ8X.jpg"group-title="Sagas",Capitán América: Civil War
-http://tux-vod.dynu.com/peliculas/720/captain%20america%20civil%20war.mkv
-#EXTINF:-1 tvg-name="Capitán América: El Primer Vengador" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtaI13PsCyyVAPwxA0p1avOO0dC.jpg"group-title="Sagas",Capitán América: El Primer Vengador
-http://tux-vod.dynu.com/peliculas/720/captain%20america%20the%20first%20avenger.mkv
-#EXTINF:-1 tvg-name="Cars" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO8QwpUkmKvW0x7dyMLx5M09sHa.jpg"group-title="Sagas",Cars
-http://tux-vod.dynu.com/peliculas/720/cars.mkv
-#EXTINF:-1 tvg-name="Cars 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQo1LQs5Vo9RHVHYUhNSfMZa3VB.jpg"group-title="Sagas",Cars 2
-http://tux-vod.dynu.com/peliculas/720/cars%202.mkv
-#EXTINF:-1 tvg-name="Cars 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tp9W3QAbQcpanBtBceZtHD10UT.jpg"group-title="Sagas",Cars 3
-http://tux-vod.dynu.com/peliculas/720/cars%203.mkv
-#EXTINF:-1 tvg-name="Chucky: El Muñeco Diabólico" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ySySgzx5pTD8ZxxeQAKaHfXff3.jpg"group-title="Sagas",Chucky: El Muñeco Diabólico
-http://tux-vod.dynu.com/peliculas/720/childs%20play.mkv
-#EXTINF:-1 tvg-name="Cocoon" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/osyR4zl0hBivH7leFTy11vFGjhX.jpg"group-title="Sagas",Cocoon
-http://tux-vod.dynu.com/peliculas/720/cocoon.mkv
-#EXTINF:-1 tvg-name="Comando Especial (2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnznvBLkpin6L8D4plfAS8EbJx3.jpg"group-title="Sagas",Comando Especial (2012)
-http://tux-vod.dynu.com/peliculas/720/21%20jump%20street.mkv
-#EXTINF:-1 tvg-name="Comando Especial 2 (2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2KNIG63EGYe6BmhGi7e7OfSDJcy.jpg"group-title="Sagas",Comando Especial 2 (2014)
-http://tux-vod.dynu.com/peliculas/720/22%20jump%20street.mkv
-#EXTINF:-1 tvg-name="Como Entrenar A Tu Dragon 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ettHoubPw8byYfpV1vomGnyfBnp.jpg"group-title="Sagas",Como Entrenar A Tu Dragon 2
-http://tux-vod.dynu.com/peliculas/720/how%20to%20train%20your%20dragon%202.mkv
-#EXTINF:-1 tvg-name="Como Entrenar A Tu Dragon 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/52ROrdY0nfKCaxXraeGYjo1MDqo.jpg"group-title="Sagas",Como Entrenar A Tu Dragon 3
-http://tux-vod.dynu.com/peliculas/720/how%20to%20train%20your%20dragon%20the%20hidden%20world%202018.mkv
-#EXTINF:-1 tvg-name="Como Entrenar A Tu Dragon(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUF9bN3pT99IgdRMSInG0YSqPCN.jpg"group-title="Sagas",Como Entrenar A Tu Dragon(2010)
-http://tux-vod.dynu.com/peliculas/720/how%20to%20trains%20your%20dragon.mkv
-#EXTINF:-1 tvg-name="Constantine City of Demons(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dboNLFpCn4BBFUuFXNvOtf9Ty8J.jpg"group-title="Sagas",Constantine City of Demons(2018)
-http://tux-vod.dynu.com/peliculas/720/constantine%20city%20of%20demons.mkv
-#EXTINF:-1 tvg-name="Critters 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEWtOdewm70nAztNawP4kzszAE8.jpg"group-title="Sagas",Critters 2
-http://tux-vod.dynu.com/peliculas/720/critters%202.mkv
-#EXTINF:-1 tvg-name="Critters 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0DjXIYU7dWOAjksHLNvspUXtSs.jpg"group-title="Sagas",Critters 3
-http://tux-vod.dynu.com/peliculas/720/critters%203.mkv
-#EXTINF:-1 tvg-name="Critters 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7AnAlh5wyR0ItcSg7CeFHDYONW.jpg"group-title="Sagas",Critters 4
-http://tux-vod.dynu.com/peliculas/720/critters%204.mkv
-#EXTINF:-1 tvg-name="Cuarentena 2(2011)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg"group-title="Sagas",Cuarentena 2(2011)
-http://tux-vod.dynu.com/peliculas/720/quarantine%202%20terminal%202011.mkv
-#EXTINF:-1 tvg-name="Death Race 2 (2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKBrGJENTZHc0yuCIf1ZWMo6wiZ.jpg"group-title="Sagas",Death Race 2 (2010)
-http://vod.tuxchannel.tv/peliculas/720/death%20race%202.mkv
-#EXTINF:-1 tvg-name="Death Race 3 (2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7NEoMmv6fcMk4Hea3S7eIgssjH.jpg"group-title="Sagas",Death Race 3 (2013)
-http://vod.tuxchannel.tv/peliculas/720/death%20race%20inferno.mkv
-#EXTINF:-1 tvg-name="Death Race La Carrera De La Muerte (2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg"group-title="Sagas",Death Race La Carrera De La Muerte (2008)
-http://vod.tuxchannel.tv/peliculas/720/death%20race.mkv
-#EXTINF:-1 tvg-name="Deep Blue Sea" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg"group-title="Sagas",Deep Blue Sea
-http://tux-vod.dynu.com/peliculas/720/deep%20blue%20sea.mkv
-#EXTINF:-1 tvg-name="Descendientes" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1aDPDsXZKXgfBPddyv70FTc5Zw.jpg"group-title="Sagas",Descendientes
-http://tux-vod.dynu.com/peliculas/720/descendants.mkv
-#EXTINF:-1 tvg-name="Descendientes 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/43dJFYdvGw4mgtdJg8UwttmyZtC.jpg"group-title="Sagas",Descendientes 2
-http://tux-vod.dynu.com/peliculas/720/descendants%202.mkv
-#EXTINF:-1 tvg-name="Destino Final" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omO4gpAlImEQOVVEHRTAIHfmAGK.jpg"group-title="Sagas",Destino Final
-http://tux-vod.dynu.com/peliculas/720/destino%20final.mkv
-#EXTINF:-1 tvg-name="Destino Final 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6m4TTnatasZcMi6qE4Hbe9LdJgz.jpg"group-title="Sagas",Destino Final 2
-http://tux-vod.dynu.com/peliculas/720/destino%20final%202.mkv
-#EXTINF:-1 tvg-name="Destino Final 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/icB8NTqRMsTm9UKl6PlDMKJOEZq.jpg"group-title="Sagas",Destino Final 3
-http://tux-vod.dynu.com/peliculas/720/destino%20final%203.mkv
-#EXTINF:-1 tvg-name="Destino Final 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvvKHROhxc6pMOfeYqWbUqUZYvS.jpg"group-title="Sagas",Destino Final 4
-http://tux-vod.dynu.com/peliculas/720/destino%20final%204.mkv
-#EXTINF:-1 tvg-name="Destino Final 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRzqLektUs0R6i84sjvF2dS69BW.jpg"group-title="Sagas",Destino Final 5
-http://tux-vod.dynu.com/peliculas/720/destino%20final%205.mkv
-#EXTINF:-1 tvg-name="Dominion: Precuela Del Exorcista" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg"group-title="Sagas",Dominion: Precuela Del Exorcista
-http://tux-vod.dynu.com/peliculas/720/el%20exorcismo%20el%20comienzo%20vercion%20prohibida.mkv
-#EXTINF:-1 tvg-name="Dulce Venganza" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEwGkfn0dlWrVjmGJ6YMOuZWqKL.jpg"group-title="Sagas",Dulce Venganza
-http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave.mkv
-#EXTINF:-1 tvg-name="Dulce Venganza 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imkTGt5WFXVuYTAOFOucOgrYX4G.jpg"group-title="Sagas",Dulce Venganza 2
-http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
-#EXTINF:-1 tvg-name="Dulce Venganza 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg"group-title="Sagas",Dulce Venganza 3
-http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
-#EXTINF:-1 tvg-name="El Aro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ibg14SFP5AydxkbJYuihKhKVa8W.jpg"group-title="Sagas",El Aro
-http://tux-vod.dynu.com/peliculas/720/the%20ring.mkv
-#EXTINF:-1 tvg-name="El Aro 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/arYAaE6QxZIgXibqoEt5qvqpgfe.jpg"group-title="Sagas",El Aro 2
-http://tux-vod.dynu.com/peliculas/720/the%20ring%20two.mkv
-#EXTINF:-1 tvg-name="El Aro 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/okUzKOkgyOKrsASeMOLLacKDRcU.jpg"group-title="Sagas",El Aro 3
-http://tux-vod.dynu.com/peliculas/720/rings.mkv
-#EXTINF:-1 tvg-name="El Conjuro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVYREutTvI2tmxr6ujrHT704wGF.jpg"group-title="Sagas",El Conjuro
-http://tux-vod.dynu.com/peliculas/720/the%20conjuring.mkv
-#EXTINF:-1 tvg-name="El Cuervo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmCreYuIqJSYrNI57ISFSKCMt2r.jpg"group-title="Sagas",El Cuervo
-http://tux-vod.dynu.com/peliculas/720/the%20crow%20salvation.mkv
-#EXTINF:-1 tvg-name="El Cuervo: Ciudad De Ángeles" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eP0KZZHW3Ki9CWuFkDzGTcpfWiN.jpg"group-title="Sagas",El Cuervo: Ciudad De Ángeles
-http://tux-vod.dynu.com/peliculas/720/the%20crow%20city%20og%20angels.mkv
-#EXTINF:-1 tvg-name="Ralph el Demoledor" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tU8ASUmfs4AmQaxyj5nHVVgwYdL.jpg"group-title="Sagas",Ralph el Demoledor
-http://tux-vod.dynu.com/peliculas/720/wreck-it%20ralph.mkv
-#EXTINF:-1 tvg-name="Wifi Ralph el Demoledor II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEH0uqDazPxuclYn0n5GNqE04bY.jpg"group-title="Sagas",Wifi Ralph el Demoledor II
-http://tux-vod.dynu.com/peliculas/720/wifi%20ralph.mkv
-#EXTINF:-1 tvg-name="El Descenso" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlLgfxXeCkwO5F4kDUsa0keK3r6.jpg"group-title="Sagas",El Descenso
-http://tux-vod.dynu.com/peliculas/720/the%20descent.mkv
-#EXTINF:-1 tvg-name="El Exorcista III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JNaaRHzvfopeig4BqSlfufFrVK.jpg"group-title="Sagas",El Exorcista III
-http://tux-vod.dynu.com/peliculas/720/the%20exorcist%20III.mkv
-#EXTINF:-1 tvg-name="El Exorcista: El Comienzo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv7APr2lzU7Toy8vO0XIgHGqF8L.jpg"group-title="Sagas",El Exorcista: El Comienzo
-http://tux-vod.dynu.com/peliculas/720/exorcist%20the%20beginning.mkv
-#EXTINF:-1 tvg-name="El Hobbit: La Desolación De Smaug" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8uQ5swzBLRyY19UwqCsVK2fM7C.jpg"group-title="Sagas",El Hobbit: La Desolación De Smaug
-http://tux-vod.dynu.com/peliculas/720/the%20hobbit%20the%20desolation%20of%20smaug.mkv
-#EXTINF:-1 tvg-name="El Hobbit: Un Viaje Inesperado" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJELUqdpGEkXVrMj7V3BiOjrtf.jpg"group-title="Sagas",El Hobbit: Un Viaje Inesperado
-http://tux-vod.dynu.com/peliculas/720/the%20hobbit%20an%20unexpected%20journey.mkv
-#EXTINF:-1 tvg-name="El Planeta De Los Simios Revolución" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kyCXO8lTKs62V5A4IsdNLjvskWM.jpg"group-title="Sagas",El Planeta De Los Simios Revolución
-http://tux-vod.dynu.com/peliculas/720/rise%20of%20the%20planet%20of%20the%20apes.mkv
-#EXTINF:-1 tvg-name="El Planeta De Los Simios: Confrontación" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNu2N4a9nuGWgkeg3NzdRTDOz5N.jpg"group-title="Sagas",El Planeta De Los Simios: Confrontación
-http://tux-vod.dynu.com/peliculas/720/dawn%20of%20teh%20planet%20of%20the%20apes.mkv
-#EXTINF:-1 tvg-name="El Planeta De Los Simios: La Guerra" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTwp3vdxcewkaLw41w0mVGRsHYw.jpg"group-title="Sagas",El Planeta De Los Simios: La Guerra
-http://tux-vod.dynu.com/peliculas/720/war%20for%20the%20planet%20of%20the%20apes.mkv
-#EXTINF:-1 tvg-name="El Rey Escorpion 2 El Nacimiento De Un Guerrero" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sifKzZSF0slc353Q3c02YmUTFtF.jpg"group-title="Sagas",El Rey Escorpion 2 El Nacimiento De Un Guerrero
-http://tux-vod.dynu.com/peliculas/720/the%20scorpion%20king%20rise%20of%20a%20warrior.mkv
-#EXTINF:-1 tvg-name="El Rey Escorpion 3 Batalla Por La Redencion" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5S35RXhpva5hfXYTvPGLzQmqhdy.jpg"group-title="Sagas",El Rey Escorpion 3 Batalla Por La Redencion
-http://tux-vod.dynu.com/peliculas/720/the%20scorpion%20king%203%20battle%20for%20redemption.mkv
-#EXTINF:-1 tvg-name="El Rey Escorpion 4 La Busqueda Del Poder" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0Ecfsb3HKxnw1D4WpTKHUpr4jF.jpg"group-title="Sagas",El Rey Escorpion 4 La Busqueda Del Poder
-http://tux-vod.dynu.com/peliculas/720/the%20scorpion%20king%20lost%20throne.mkv
-#EXTINF:-1 tvg-name="El Rey Escorpion(2002)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aAOQaJ9PeL29mgr2og42d3ZV68L.jpg"group-title="Sagas",El Rey Escorpion(2002)
-http://tux-vod.dynu.com/peliculas/720/the%20scorpion%20king.mkv
-#EXTINF:-1 tvg-name="El Rey Escorpion: EL Libro de las Almas(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4fZL6ONUz0o8nvnHpeA8zj3nEvs.jpg"group-title="Sagas",El Rey Escorpion: EL Libro de las Almas(2018)
-http://tux-vod.dynu.com/peliculas/720/el%20rey%20escorpion%20el%20libro%20de%20las%20almas.mkv
-#EXTINF:-1 tvg-name="El Señor De Los Anillos: El Retorno Del Rey(2003)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWuFbQrXyLk2kMBKF9TUPtDwuPx.jpg"group-title="Sagas",El Señor De Los Anillos: El Retorno Del Rey(2003)
-http://tux-vod.dynu.com/peliculas/720/the%20lord%20of%20the%20rings%20the%20return%20of%20the%20king.mkv
-#EXTINF:-1 tvg-name="El Señor De Los Anillos:La Comunidad Del Anillo(2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p6QjtBmO6U105l44U0qMDSLxT0L.jpg"group-title="Sagas",El Señor De Los Anillos:La Comunidad Del Anillo(2001)
-http://tux-vod.dynu.com/peliculas/720/the%20lord%20of%20the%20rings%20the%20fellowship%20of%20the%20ring.mkv
-#EXTINF:-1 tvg-name="El Señor De Los Anillos:Las 2 Torres(2002)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/up6gIHZlfEQZkHIfQwcOOaGOzOt.jpg"group-title="Sagas",El Señor De Los Anillos:Las 2 Torres(2002)
-http://tux-vod.dynu.com/peliculas/720/the%20lord%20of%20the%20rings%20the%20two%20tower.mkv
-#EXTINF:-1 tvg-name="El Sorprendente Hombre Araña" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tq60nfYMaQbPC5CbY17U20s3rCA.jpg"group-title="Sagas",El Sorprendente Hombre Araña
-http://tux-vod.dynu.com/peliculas/720/the%20amazing%20spiderman.mkv
-#EXTINF:-1 tvg-name="El Sorprendente Hombre Araña 2: La Amenaza De Electro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/foJVlqwPUyvFEJTJqaPOnxKdqOj.jpg"group-title="Sagas",El Sorprendente Hombre Araña 2: La Amenaza De Electro
-http://tux-vod.dynu.com/peliculas/720/the%20amazing%20spider-man%202%20rise%20of%20electro.mkv
-#EXTINF:-1 tvg-name="El Transportador Recargado" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQ8jVLAVUG3XozFcFKyXMaWam2D.jpg"group-title="Sagas",El Transportador Recargado
-http://tux-vod.dynu.com/peliculas/720/the%20transporter%20refueled.mkv
-#EXTINF:-1 tvg-name="Escalofrios" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUK06JoZAcEiEZSxL4qbZTHx4.jpg"group-title="Sagas",Escalofrios
-http://tux-vod.dynu.com/peliculas/720/goosebumps.mkv
-#EXTINF:-1 tvg-name="Escalofrios 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg"group-title="Sagas",Escalofrios 2
-http://tux-vod.dynu.com/peliculas/720/escalofrios%202.mkv
-#EXTINF:-1 tvg-name="Exorcista Ii: El Hereje" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg"group-title="Sagas",Exorcista Ii: El Hereje
-http://tux-vod.dynu.com/peliculas/720/exorcist%20II%20the%20heretic.mkv
-#EXTINF:-1 tvg-name="Feliz día de tu muerte" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWmwvOvsbshDzOz5Zjb73AuAtN1.jpg"group-title="Sagas",Feliz día de tu muerte
-http://tux-vod.dynu.com/peliculas/720/happy%20death%20day.mkv
-#EXTINF:-1 tvg-name="Feliz Día De Tu Muerte 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6PSTBNlI9WtfuMlngz82yaudUg.jpg"group-title="Sagas",Feliz Día De Tu Muerte 2
-http://tux-vod.dynu.com/peliculas/720/happy%20death%20day%202%202019.mkv
-#EXTINF:-1 tvg-name="Furia de Titanes(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2q6HooPdGfFaOI2U2nbjw3BSZ.jpg"group-title="Sagas",Furia de Titanes(2010)
-http://tux-vod.dynu.com/peliculas4k/clash%20of%20the%20titans.mkv
-#EXTINF:-1 tvg-name="Furia de Titanes(2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5b1y7Bbr8BxSK5luKMyiqIgdkNh.jpg"group-title="Sagas",Furia de Titanes(2012)
-http://tux-vod.dynu.com/peliculas4k/wrath%20of%20the%20titans.mkv
-#EXTINF:-1 tvg-name="Futurama : Hacia La Verde Inmensidad(2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i0N9YM2tfJTDAeQw1GsbHeOZZYW.jpg"group-title="Sagas",Futurama : Hacia La Verde Inmensidad(2009)
-http://tux-vod.dynu.com/peliculas/720/futurama%20into%20the%20wild%20green%20yonder.mkv
-#EXTINF:-1 tvg-name="Futurama : La Bestia Con Un Millon De Espaldas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCcFtWhZ9O5iOO7wNjLHEVEL196.jpg"group-title="Sagas",Futurama : La Bestia Con Un Millon De Espaldas
-http://tux-vod.dynu.com/peliculas/720/futurama%20the%20beast%20with%20a%20billion%20backs.mkv
-#EXTINF:-1 tvg-name="Futurama: El Gran golpe de Bender(2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aChIdHavSgTgiYbzZFKR7iMFgu3.jpg"group-title="Sagas",Futurama: El Gran golpe de Bender(2007)
-http://tux-vod.dynu.com/peliculas/720/futurama%20benders%20big%20score.mkv
-#EXTINF:-1 tvg-name="Futurama: El Juego de Bender(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nofwcAAzf3g5zKruFWFzGDp4AD6.jpg"group-title="Sagas",Futurama: El Juego de Bender(2008)
-http://tux-vod.dynu.com/peliculas/720/futurama%20benders%20game.mkv
-#EXTINF:-1 tvg-name="Garfield 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/n10AuSUxcJQEPtRw0uNdukpKQ1G.jpg"group-title="Sagas",Garfield 2
-http://tux-vod.dynu.com/peliculas/720/garfield%20a%20tail%20of%20two%20kitties.mkv
-#EXTINF:-1 tvg-name="Garfield: La Pelicula" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMQKL3Dx40au9e172ARVUWsT4qH.jpg"group-title="Sagas",Garfield: La Pelicula
-http://tux-vod.dynu.com/peliculas/720/garfield%20the%20movie.mkv
-#EXTINF:-1 tvg-name="Guardianes De La Galaxia" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kdg6Y06jfq9FV7qknWNcKLYtBJn.jpg"group-title="Sagas",Guardianes De La Galaxia
-http://tux-vod.dynu.com/peliculas/720/guardians%20of%20the%20galaxy.mkv
-#EXTINF:-1 tvg-name="Guardianes de la Galaxia vol. 2" tvg-logo= group-title="Sagas",Guardianes de la Galaxia vol. 2
-http://tux-vod.dynu.com/peliculas/720/guardians%20of%20the%20galaxy%20vol%202.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y El Cáliz De Fuego" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Cn5Lx9kqhXzTNV5QXwZ3RW5pBg.jpg"group-title="Sagas",Harry Potter Y El Cáliz De Fuego
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20goblet%20of%20fire.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y El Misterio Del Príncipe" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NHaLm3f9pMQdN3nwVNqa0gWC5K.jpg"group-title="Sagas",Harry Potter Y El Misterio Del Príncipe
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20half%20blood%20prince.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y El Prisionero De Azkaban" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wF9aoo4YZmpKP4bZPSy4Zwwek6G.jpg"group-title="Sagas",Harry Potter Y El Prisionero De Azkaban
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20prisoner%20of%20azkaban.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y La Cámara Secreta" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6TD1UXLY4ctQaKXwWBWGrtnOOM4.jpg"group-title="Sagas",Harry Potter Y La Cámara Secreta
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20chamber%20of%20secrets.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y La Orden Del Fénix" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBLPlcZtDurZlqTVLYLVLoN49zT.jpg"group-title="Sagas",Harry Potter Y La Orden Del Fénix
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20order%20of%20the%20phoenix.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y La Piedra Filosofal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg"group-title="Sagas",Harry Potter Y La Piedra Filosofal
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20sorcerers%20stone.mkv
-#EXTINF:-1 tvg-name="Harry Potter Y Las Reliquias De La Muerte - Parte 1" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wxkG5RyE2Am8DEnptRk9crjlkkD.jpg"group-title="Sagas",Harry Potter Y Las Reliquias De La Muerte - Parte 1
-http://tux-vod.dynu.com/peliculas/720/harry%20potter%20and%20the%20deathly%20hallows%20part%20I.mkv
-#EXTINF:-1 tvg-name="Hellboy Ii: El Ejército Dorado" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7LObtoON3jwa2aOrLgIeTnba2z.jpg"group-title="Sagas",Hellboy Ii: El Ejército Dorado
-http://tux-vod.dynu.com/peliculas/720/hellboy%20II%20the%20golden%20army.mkv
-#EXTINF:-1 tvg-name="Hostal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBKRKu3srnTqiEITXOUSLperhKP.jpg"group-title="Sagas",Hostal
-http://tux-vod.dynu.com/peliculas/720/hostal.mkv
-#EXTINF:-1 tvg-name="Hostal: Parte 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vUlEHfqfeCy7ojUk6OFtoljHzib.jpg"group-title="Sagas",Hostal: Parte 2
-http://tux-vod.dynu.com/peliculas/720/hostal%20parte%202.mkv
-#EXTINF:-1 tvg-name="Hostal: parte III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hon2w2LxydODXPWnaX7bTrkp7bE.jpg"group-title="Sagas",Hostal: parte III
-http://tux-vod.dynu.com/peliculas/720/hostal%20parte%203.mkv
-#EXTINF:-1 tvg-name="Hotel Transilvania" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YYH5i78lNNlllz7mlj6tEjWaSZ.jpg"group-title="Sagas",Hotel Transilvania
-http://tux-vod.dynu.com/peliculas/720/hotel%20transilvania.mkv
-#EXTINF:-1 tvg-name="Hotel Transilvania II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndYVcm1k3h81MRDhzZCI4SxDzGp.jpg"group-title="Sagas",Hotel Transilvania II
-http://tux-vod.dynu.com/peliculas/720/hotel%20transilvania%202.mkv
-#EXTINF:-1 tvg-name="Hotel Transilvania III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5eBnMRoFWjSua4DYdiKjmHP3H5.jpg"group-title="Sagas",Hotel Transilvania III
-http://tux-vod.dynu.com/peliculas/720/hotel%20transilvania%203.mkv
-#EXTINF:-1 tvg-name="Hulk" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Vdwl3KGZgnhiTCg2YnSKMyG3Vn.jpg"group-title="Sagas",Hulk
-http://tux-vod.dynu.com/peliculas/720/hulk.mkv
-#EXTINF:-1 tvg-name="Hulk: El Hombre Increíble" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg"group-title="Sagas",Hulk: El Hombre Increíble
-http://tux-vod.dynu.com/peliculas/720/the%20incredible%20hulk.mkv
-#EXTINF:-1 tvg-name="Monster Inc(2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3SgHEb5ej2MioGfYLrZVshF909.jpg"group-title="Sagas",Monster Inc(2001)
-http://tux-vod.dynu.com/peliculas/720/monsters%20inc.mkv
-#EXTINF:-1 tvg-name="Inframundo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zsnQ41UZ3jo1wEeemF0eA9cAIU0.jpg"group-title="Sagas",Inframundo
-http://tux-vod.dynu.com/peliculas/720/inframundo.mkv
-#EXTINF:-1 tvg-name="Inframundo: El Despertar" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg"group-title="Sagas",Inframundo: El Despertar
-http://tux-vod.dynu.com/peliculas/720/inframundo%20el%20despertar.mkv
-#EXTINF:-1 tvg-name="Inframundo: Guerra de Sangre" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8iuDPMjPQE1Si7c4VyU903ZD3JS.jpg"group-title="Sagas",Inframundo: Guerra de Sangre
-http://tux-vod.dynu.com/peliculas/720/underworld%20-%20blood%20wars.mkv
-#EXTINF:-1 tvg-name="Iron Man" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/78lPtwv72eTNqFW9COBYI0dWDJa.jpg"group-title="Sagas",Iron Man
-http://tux-vod.dynu.com/peliculas/720/iron%20man.mkv
-#EXTINF:-1 tvg-name="Iron Man 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7akaBK97uIqH3GbDcBewrOjRpkM.jpg"group-title="Sagas",Iron Man 2
-http://tux-vod.dynu.com/peliculas/720/iron%20man%202.mkv
-#EXTINF:-1 tvg-name="Iron Man 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf0jSmUb0c2T1OtI5N5p48bNacN.jpg"group-title="Sagas",Iron Man 3
-http://tux-vod.dynu.com/peliculas/720/iron%20man%203.mkv
-#EXTINF:-1 tvg-name="It: Capítulo Dos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxw6j2AwlUsw5iS4fCxPoCP0jPh.jpg"group-title="Sagas",It: Capítulo Dos
-http://tux-vod.dynu.com/peliculas/720/it%20chapter%20two%202019.mkv
-#EXTINF:-1 tvg-name="Jigsaw El juego Continua(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg"group-title="Sagas",Jigsaw El juego Continua(2017)
-http://tux-vod.dynu.com/peliculas/720/jigsaw.mkv
-#EXTINF:-1 tvg-name="Jumanji(1995)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z46R8oShx61gXMrAmd7ptpVqNI0.jpg"group-title="Sagas",Jumanji(1995)
-http://tux-vod.dynu.com/peliculas/720/jumanji.mkv
-#EXTINF:-1 tvg-name="Jumanji:En la Selva(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg"group-title="Sagas",Jumanji:En la Selva(2017)
-http://tux-vod.dynu.com/peliculas/720/jumanji%20welcome%20to%20the%20jungle.mkv
-#EXTINF:-1 tvg-name="Jurassic World: El Reino Caido" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHa2I7qxZvZUASLHrIR8vQLmZ4B.jpg"group-title="Sagas",Jurassic World: El Reino Caido
-http://tux-vod.dynu.com/peliculas/720/jurassic%20world%20el%20reino%20caido.mkv
-#EXTINF:-1 tvg-name="Jurassic World: Mundo Jurasico" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tLY0crgPAwIBiwkF7lDLmEjBWyn.jpg"group-title="Sagas",Jurassic World: Mundo Jurasico
-http://tux-vod.dynu.com/peliculas/720/jurassic%20world%20mundo%20jurasico.mkv
-#EXTINF:-1 tvg-name="Kung Fu Panda" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWt4JYXTg5Wr3xBW2phBrMKgp3x.jpg"group-title="Sagas",Kung Fu Panda
-http://tux-vod.dynu.com/peliculas/720/kung%20fu%20panda.mkv
-#EXTINF:-1 tvg-name="Kung Fu Panda 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9AMv1HREflfHSm3SBfXEeteXm8.jpg"group-title="Sagas",Kung Fu Panda 2
-http://tux-vod.dynu.com/peliculas/720/kung%20fu%20panda%202.mkv
-#EXTINF:-1 tvg-name="Kung Fu Panda 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/joSDeRRYoNLbuSPw7SDAfBogZdH.jpg"group-title="Sagas",Kung Fu Panda 3
-http://tux-vod.dynu.com/peliculas/720/kung%20fu%20panda%203.mkv
-#EXTINF:-1 tvg-name="La Bella y la Bestia 2: Una Navidad Encantada (1997)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDfdksyliDTLipM84lBixmDlVKl.jpg"group-title="Sagas",La Bella y la Bestia 2: Una Navidad Encantada (1997)
-http://tux-vod.dynu.com/peliculas/720/beauty%20and%20the%20beast%20the%20enchanted%20christmas.mkv
-#EXTINF:-1 tvg-name="La Bruja Y El Armario(2005)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9WMcPeguI4pmwULmB6LqzPyj1v.jpg"group-title="Sagas",La Bruja Y El Armario(2005)
-http://tux-vod.dynu.com/peliculas/720/cronicas%20de%20narnia.mkv
-#EXTINF:-1 tvg-name="La Carrera de la Muerte (2)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63VpqcLyXZxTeQ0Lda00flSeF4O.jpg"group-title="Sagas",La Carrera de la Muerte (2)
-http://tux-vod.dynu.com/peliculas/720/death%20race%202.mkv
-#EXTINF:-1 tvg-name="La Carrera de la Muerte (2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/licxEAA2QYy4zLrd6N03vvrBtzo.jpg"group-title="Sagas",La Carrera de la Muerte (2018)
-http://tux-vod.dynu.com/peliculas/720/death%20race%204.mkv
-#EXTINF:-1 tvg-name="La Carrera De La Muerte (3)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7NEoMmv6fcMk4Hea3S7eIgssjH.jpg"group-title="Sagas",La Carrera De La Muerte (3)
-http://tux-vod.dynu.com/peliculas/720/death%20race%20inferno.mkv
-#EXTINF:-1 tvg-name="La Carrera de la Muerte(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVRsBgbozj3020Q9S1CNIIUdZ3W.jpg"group-title="Sagas",La Carrera de la Muerte(2008)
-http://tux-vod.dynu.com/peliculas/720/death%20race.mkv
-#EXTINF:-1 tvg-name="La Cueva(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OQx9GlkPKFpNSEp4vedPmyC3vU.jpg"group-title="Sagas",La Cueva(2014)
-http://tux-vod.dynu.com/peliculas/720/la%20cueva.mkv
-#EXTINF:-1 tvg-name="La Cueva: Descenso Al Infierno(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg"group-title="Sagas",La Cueva: Descenso Al Infierno(2016)
-http://tux-vod.dynu.com/peliculas/720/cave.mkv
-#EXTINF:-1 tvg-name="La Era De Hielo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg"group-title="Sagas",La Era De Hielo
-http://tux-vod.dynu.com/peliculas/720/la%20era%20del%20hielo.mkv
-#EXTINF:-1 tvg-name="La Era De Hielo 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0GVfNjiPixSVctc4TLowUqZiCa.jpg"group-title="Sagas",La Era De Hielo 2
-http://tux-vod.dynu.com/peliculas/720/la%20era%20del%20hielo%202.mkv
-#EXTINF:-1 tvg-name="La Era De Hielo 3: El Origen De Los Dinosaurios" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OiDvlOXSyXB90pl4c3Qcl2w5yR.jpg"group-title="Sagas",La Era De Hielo 3: El Origen De Los Dinosaurios
-http://tux-vod.dynu.com/peliculas/720/la%20era%20del%20hielo%203.mkv
-#EXTINF:-1 tvg-name="La Era De Hielo 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qYiZOCXkOYtYfolUUdJKoZ8xPsL.jpg"group-title="Sagas",La Era De Hielo 4
-http://tux-vod.dynu.com/peliculas/720/la%20era%20del%20hielo%204.mkv
-#EXTINF:-1 tvg-name="La Era Del Hielo: Choque De Mundos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjgvznDSs2YZI0pr0dEe0NzDI7d.jpg"group-title="Sagas",La Era Del Hielo: Choque De Mundos
-http://tux-vod.dynu.com/peliculas/720/ice%20age%20collision%20course.mkv
-#EXTINF:-1 tvg-name="La Historia Sin Fin 2(1990)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmxZK2By8BsHrfGOlEERIX4TYRA.jpg"group-title="Sagas",La Historia Sin Fin 2(1990)
-http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story%202%20the%20next%20chapter%201990.mkv
-#EXTINF:-1 tvg-name="La Historia Sin Fin 3(1994)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ6nP7CSc6OfGzxsj6WgxheetCF.jpg"group-title="Sagas",La Historia Sin Fin 3(1994)
-http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story%203%20escape%20from%20fantasia%201994.mkv
-#EXTINF:-1 tvg-name="La Historia Sin Fin(1984)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHZ3HmN294z2ri1KyWFwBORFOd7.jpg"group-title="Sagas",La Historia Sin Fin(1984)
-http://tux-vod.dynu.com/peliculas/720/the%20neverending%20story.mkv
-#EXTINF:-1 tvg-name="La Leyenda Del Tesoro Perdido 2 El Libro De Los Secretos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bSDlNITmHPdGdY5uD05DoTg4thP.jpg"group-title="Sagas",La Leyenda Del Tesoro Perdido 2 El Libro De Los Secretos
-http://tux-vod.dynu.com/peliculas/720/national%20treasure%20book%20of%20secrets.mkv
-#EXTINF:-1 tvg-name="La Leyenda Del Tesoro Perdido(2004)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2vyHQEDvTPn8Zn2XtJi5w0LUajr.jpg"group-title="Sagas",La Leyenda Del Tesoro Perdido(2004)
-http://tux-vod.dynu.com/peliculas/720/national%20treasure.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg"group-title="Sagas",La Masacre De Texas
-http://tux-vod.dynu.com/peliculas/720/the%20texas%20chainsaw%20massacre%201974.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg"group-title="Sagas",La Masacre De Texas 2
-http://tux-vod.dynu.com/peliculas/720/masacre%20en%20texas%202.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas 2003" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8khosJWNkBVT5tx9YaOOeaG1L6.jpg"group-title="Sagas",La Masacre De Texas 2003
-http://tux-vod.dynu.com/peliculas/720/the%20texas%20chainsaw%20massacre%202003.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8khosJWNkBVT5tx9YaOOeaG1L6.jpg"group-title="Sagas",La Masacre De Texas 3
-http://tux-vod.dynu.com/peliculas/720/masacre%20en%20texas%203.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas: El Inicio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg"group-title="Sagas",La Masacre De Texas: El Inicio
-http://tux-vod.dynu.com/peliculas/720/texas%20chainsaw%20massacre%20the%20beginning%202006.mkv
-#EXTINF:-1 tvg-name="La Masacre De Texas: La Nueva Generación" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg"group-title="Sagas",La Masacre De Texas: La Nueva Generación
-http://tux-vod.dynu.com/peliculas/720/texas%20chainsaw%20massacre%20IV%20the%20next%20generation%201994.mkv
-#EXTINF:-1 tvg-name="La Momia Regresa(2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5CeEQ2iq9A20LbU0K4Q1TMxFDs.jpg"group-title="Sagas",La Momia Regresa(2001)
-http://tux-vod.dynu.com/peliculas/720/the%20mummy%20returns.mkv
-#EXTINF:-1 tvg-name="La Momia(1999)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yl52wKclbfehaT9KCs4GNEsVrxq.jpg"group-title="Sagas",La Momia(1999)
-http://tux-vod.dynu.com/peliculas/720/the%20mummy.mkv
-#EXTINF:-1 tvg-name="La Momia: La Tumba Del Emperdador Dragon(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fA2kcfvI47EN9kfE1pvICarWr8H.jpg"group-title="Sagas",La Momia: La Tumba Del Emperdador Dragon(2008)
-http://tux-vod.dynu.com/peliculas/720/the%20mummy%20tomb%20of%20the%20dragon%20emperor.mkv
-#EXTINF:-1 tvg-name="La Noche Del Demonio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg"group-title="Sagas",La Noche Del Demonio
-http://tux-vod.dynu.com/peliculas/720/la%20noche%20del%20demonio.mkv
-#EXTINF:-1 tvg-name="La Noche Del Demonio: Capítulo 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/chnxUtTmTRZh5FE7Ha4aUOZ9ahs.jpg"group-title="Sagas",La Noche Del Demonio: Capítulo 2
-http://tux-vod.dynu.com/peliculas/720/la%20noche%20del%20demonio%202.mkv
-#EXTINF:-1 tvg-name="La Noche Del Demonio: Capitulo 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnVtVZIiQ59MsZHKhxYenjAIBXo.jpg"group-title="Sagas",La Noche Del Demonio: Capitulo 3
-http://tux-vod.dynu.com/peliculas/720/insidious%20chapter%203.mkv
-#EXTINF:-1 tvg-name="La Noche Del Demonio: La Ultima Llave" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1zyHNxhiGCoFIlptOpdtEyDak.jpg"group-title="Sagas",La Noche Del Demonio: La Ultima Llave
-http://tux-vod.dynu.com/peliculas/720/insidious%20the%20last%20key.mkv
-#EXTINF:-1 tvg-name="La Novia De Chucky" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBodnkKUe1gPXOihAsIHTvFvLK4.jpg"group-title="Sagas",La Novia De Chucky
-http://tux-vod.dynu.com/peliculas/720/la%20novia%20de%20chucky.mkv
-#EXTINF:-1 tvg-name="Lara Croft: Tomb Raider  2 (2003)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lMZRhXuZyNEpohTui1VpSsmsq63.jpg"group-title="Sagas",Lara Croft: Tomb Raider  2 (2003)
-http://tux-vod.dynu.com/peliculas/720/lara%20croft%20tomb%20raider%201.mkv
-#EXTINF:-1 tvg-name="Las Cronicas de Narnia: El Principe Caspian(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7iP4njoOx6sC3tSWffET1q1wqTW.jpg"group-title="Sagas",Las Cronicas de Narnia: El Principe Caspian(2008)
-http://tux-vod.dynu.com/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv
-#EXTINF:-1 tvg-name="Las Cronicas De Narnia: La Travesia Del Viajero Alba(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8J5mCaIG1gZe58VIINRlcjhaqgn.jpg"group-title="Sagas",Las Cronicas De Narnia: La Travesia Del Viajero Alba(2010)
-http://tux-vod.dynu.com/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv
-#EXTINF:-1 tvg-name="Logan" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0ktjN9eKww26HhM8or8iUB1I68.jpg"group-title="Sagas",Logan
-http://tux-vod.dynu.com/peliculas/720/logan.mkv
-#EXTINF:-1 tvg-name="Los Angeles de Charlie" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YZeyalCdYtrJ4U6hl2J9cyI8iq.jpg"group-title="Sagas",Los Angeles de Charlie
-http://tux-vod.dynu.com/peliculas/720/los%20angeles%20de%20charlie.mkv
-#EXTINF:-1 tvg-name="Los Angeles De Charlie 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bM7N86wO8aK0kCJRTshC6JWem8l.jpg"group-title="Sagas",Los Angeles De Charlie 2
-http://tux-vod.dynu.com/peliculas/720/los%20angeles%20de%20charlie%20al%20limite.mkv
-#EXTINF:-1 tvg-name="Los Extraños: Caceria Nocturna(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjUqYcAAJNTgnyyVoZQoZqYhAUx.jpg"group-title="Sagas",Los Extraños: Caceria Nocturna(2018)
-http://tux-vod.dynu.com/peliculas/720/the%20strangers%20prey%20at%20night.mkv
-#EXTINF:-1 tvg-name="Los Increibles" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/al1jusd4T7JPatZlj4BuYkDDOzr.jpg"group-title="Sagas",Los Increibles
-http://tux-vod.dynu.com/peliculas/720/the%20incredibles.mkv
-#EXTINF:-1 tvg-name="Los Increibles  II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNIKq8r155eRFlsoaxgfRYs71qY.jpg"group-title="Sagas",Los Increibles  II
-http://tux-vod.dynu.com/peliculas/720/los%20increibles%202.mkv
-#EXTINF:-1 tvg-name="Los Indestructibles" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzo8OdPVx6kFotHlM3OvdwUzVZt.jpg"group-title="Sagas",Los Indestructibles
-http://tux-vod.dynu.com/peliculas/720/the%20expendables.mkv
-#EXTINF:-1 tvg-name="Los Indestructibles 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ag4aWtC3NhmEl4f5Sz5hIyQBZM8.jpg"group-title="Sagas",Los Indestructibles 2
-http://tux-vod.dynu.com/peliculas/720/the%20expendables%202.mkv
-#EXTINF:-1 tvg-name="Los Indestructibles 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aRQlzp1CttwSDgHOKGy1TrLPpL.jpg"group-title="Sagas",Los Indestructibles 3
-http://tux-vod.dynu.com/peliculas/720/the%20expendables%203.mkv
-#EXTINF:-1 tvg-name="Los Juegos Del Hambre(2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJUB1AXsHTZoGyN7CIagZh9JwiN.jpg"group-title="Sagas",Los Juegos Del Hambre(2012)
-http://tux-vod.dynu.com/peliculas/720/the%20hunger%20games.mkv
-#EXTINF:-1 tvg-name="Los Juegos Del Hambre: Sinsajo I" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLKhOBKno7mKXbf4K2IavkZ0xqo.jpg"group-title="Sagas",Los Juegos Del Hambre: Sinsajo I
-http://tux-vod.dynu.com/peliculas/720/the%20hunger%20games%20mockingjay%20parte%201.mkv
-#EXTINF:-1 tvg-name="Los Juegos Del Hambre:En Llamas(2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yL2N2cQqJscTHQkLr3H6LSAfSks.jpg"group-title="Sagas",Los Juegos Del Hambre:En Llamas(2013)
-http://tux-vod.dynu.com/peliculas/720/the%20hunger%20games%20catchins%20fire.mkv
-#EXTINF:-1 tvg-name="Los Pitufos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ufpzGicM1hZQMzRzTRHAcIQXjXi.jpg"group-title="Sagas",Los Pitufos
-http://tux-vod.dynu.com/peliculas/720/the%20smurfs.mkv
-#EXTINF:-1 tvg-name="Los Pitufos: En la Aldea Perdida(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/87LUY0NnhiL6Anm8IHxTfGArarn.jpg"group-title="Sagas",Los Pitufos: En la Aldea Perdida(2017)
-http://tux-vod.dynu.com/peliculas/720/smurfs%20the%20lost%20village.mkv
-#EXTINF:-1 tvg-name="Madagascar" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0M2OowRDHtAOcHMS3s5nNWuGii.jpg"group-title="Sagas",Madagascar
-http://tux-vod.dynu.com/peliculas/720/madagascar.mkv
-#EXTINF:-1 tvg-name="Madagascar 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uL5unGWKgBnaLdJLRjqcZjMr3I.jpg"group-title="Sagas",Madagascar 2
-http://tux-vod.dynu.com/peliculas/720/madagascar%20escape%202%20africa%202008.mkv
-#EXTINF:-1 tvg-name="Madagascar 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fKTIecTVNURB6CRFjYMypggRL2.jpg"group-title="Sagas",Madagascar 3
-http://tux-vod.dynu.com/peliculas/720/madagascar%203%20europes%20most%20wante%202012.mkv
-#EXTINF:-1 tvg-name="Masacre En Texas: Herencia Maldita" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d0jNjKQAT5bjZN9zK7ZeqfQ3Bvc.jpg"group-title="Sagas",Masacre En Texas: Herencia Maldita
-http://tux-vod.dynu.com/peliculas/720/texas%20chainsaw%203d%202013.mkv
-#EXTINF:-1 tvg-name="Mascotas (2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kfMiEhfmsAxTUoldgR4mnKndDVv.jpg"group-title="Sagas",Mascotas (2016)
-http://tux-vod.dynu.com/peliculas/720/the%20secret%20life%20of%20pets.mkv
-#EXTINF:-1 tvg-name="Mascotas 2 (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqGsG2uNV9JGgrfODbTafPUukci.jpg"group-title="Sagas",Mascotas 2 (2019)
-http://tux-vod.dynu.com/peliculas/720/the%20secret%20life%20of%20pets%202%202019.mkv
-#EXTINF:-1 tvg-name="Maze Runner: A prueba de Fuego(2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5064TPKlsU7xXWQY99kMmM82o8J.jpg"group-title="Sagas",Maze Runner: A prueba de Fuego(2015)
-http://tux-vod.dynu.com/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv
-#EXTINF:-1 tvg-name="Maze Runner: Correr o Morir(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg"group-title="Sagas",Maze Runner: Correr o Morir(2014)
-http://tux-vod.dynu.com/peliculas/720/the%20maze%20runner.mkv
-#EXTINF:-1 tvg-name="Maze Runner: La Cura Mortal(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuZOnvzplxPVh71t827F19zY5Ab.jpg"group-title="Sagas",Maze Runner: La Cura Mortal(2018)
-http://tux-vod.dynu.com/peliculas/720/maze%20runner%20the%20death%20cure.mkv
-#EXTINF:-1 tvg-name="Mi Abuela Es un Peligro III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8HBwK3pC13jny5K9OVvMy9ejeYz.jpg"group-title="Sagas",Mi Abuela Es un Peligro III
-http://tux-vod.dynu.com/peliculas/720/big%20mommas%20house%203%202011.mkv
-#EXTINF:-1 tvg-name="Mi Abuela Es Un Peligro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/svzVjVV8QUpfYItr3PH5bMzRPer.jpg"group-title="Sagas",Mi Abuela Es Un Peligro
-http://tux-vod.dynu.com/peliculas/720/big%20mommas%20house%202000.mkv
-#EXTINF:-1 tvg-name="Mi Abuela Es Un Peligro II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oipfIAfuGHL7Sv6yKSKJYo6qMvg.jpg"group-title="Sagas",Mi Abuela Es Un Peligro II
-http://tux-vod.dynu.com/peliculas/720/big%20mommas%20house%202%202006.mkv
-#EXTINF:-1 tvg-name="Mi Villano Favorito" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/va5lL79BrgZXjuuSktjSSbNnTDq.jpg"group-title="Sagas",Mi Villano Favorito
-http://tux-vod.dynu.com/peliculas/720/despicable%20me.mkv
-#EXTINF:-1 tvg-name="Mi Villano Favorito II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhksXOBVJ6Mu2BwAFgPJwZxNisd.jpg"group-title="Sagas",Mi Villano Favorito II
-http://tux-vod.dynu.com/peliculas/720/despicable%20me%202.mkv
-#EXTINF:-1 tvg-name="Mi Villano Favorito III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbcBR6G5qNLX4OwLtWHdNJVzpei.jpg"group-title="Sagas",Mi Villano Favorito III
-http://tux-vod.dynu.com/peliculas/720/despicable%20me%203.mkv
-#EXTINF:-1 tvg-name="Misión Imposible" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCpmxw3UUjv4PGzbIPOHeoKAV0l.jpg"group-title="Sagas",Misión Imposible
-http://tux-vod.dynu.com/peliculas/720/mission%20impossible.mkv
-#EXTINF:-1 tvg-name="Mision Imposible 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mskE3W88cjMRrnKQye8pjmJu3O1.jpg"group-title="Sagas",Mision Imposible 2
-http://tux-vod.dynu.com/peliculas/720/mission%20impossible%202.mkv
-#EXTINF:-1 tvg-name="Mision Imposible 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w61xBgFOfP8Z6uHKIKn1sl1TI8j.jpg"group-title="Sagas",Mision Imposible 3
-http://tux-vod.dynu.com/peliculas/720/mission%20impossible%20III.mkv
-#EXTINF:-1 tvg-name="Mision Imposible 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y0hjsPyieqxcunEcAxb9mrrE09c.jpg"group-title="Sagas",Mision Imposible 4
-http://tux-vod.dynu.com/peliculas/720/mission%20impossible%20ghost%20protocol.mkv
-#EXTINF:-1 tvg-name="Misión: Imposible - Nación Secreta" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc8yv8p5lz7iw7bYNgzWusYYBQV.jpg"group-title="Sagas",Misión: Imposible - Nación Secreta
-http://tux-vod.dynu.com/peliculas/720/mission%20impossible%20rogue%20nation.mkv
-#EXTINF:-1 tvg-name="Monster Hunt 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eUTbNCxYH5L4AddZ67O0O1jk16n.jpg"group-title="Sagas",Monster Hunt 2
-http://tux-vod.dynu.com/peliculas/720/monster%20hunt%202%202018.mkv
-#EXTINF:-1 tvg-name="Monster Hunt " tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1sp9MYkL0OW1vCf074u7AxVQuj.jpg"group-title="Sagas",Monster Hunt 
-http://tux-vod.dynu.com/peliculas/720/monster%20hunt.mkv
-#EXTINF:-1 tvg-name="Ong Bak 2: La Leyenda Del Rey(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/edHvKrJ2fRBgrzRkOoPD0sD6djH.jpg"group-title="Sagas",Ong Bak 2: La Leyenda Del Rey(2008)
-http://tux-vod.dynu.com/peliculas/720/ong%20bak%202.mkv
-#EXTINF:-1 tvg-name="Ong Bak: Ek Guerrero Muay Thai(2003)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/srhQeDr0n53IV5xAfee4xwJMSPr.jpg"group-title="Sagas",Ong Bak: Ek Guerrero Muay Thai(2003)
-http://tux-vod.dynu.com/peliculas/720/ong%20bak.mkv
-#EXTINF:-1 tvg-name="Operacion Africa(1995)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/899yWih4ic8AyczedYiX41g7TvQ.jpg"group-title="Sagas",Operacion Africa(1995)
-http://tux-vod.dynu.com/peliculas/720/ace%20ventura%20when%20nature%20calls.mkv
-#EXTINF:-1 tvg-name="The Descent Parte 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOURlcw2MO0xys0Dl2NiAcUxlWA.jpg"group-title="Sagas",The Descent Parte 2
-http://tux-vod.dynu.com/peliculas/720/the%20decent%202.mkv
-#EXTINF:-1 tvg-name="Percy Jackson Y El Ladron Del Rayo(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqgzisjRJSB6Qh1gavJgDqJNcqL.jpg"group-title="Sagas",Percy Jackson Y El Ladron Del Rayo(2010)
-http://tux-vod.dynu.com/peliculas/720/percy%20jackson%20and%20the%20olympians%20the%20lightning%20thief.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg"group-title="Sagas",Pesadilla en la Calle ELM (2010)
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%202010.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aw0V32nKxEZL9e3fEo2JHakNOx.jpg"group-title="Sagas",Pesadilla en la Calle ELM (Freddy Krueger)
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street.mkv
-#EXTINF:-1 tvg-name="Pesadilla En La Calle Elm (Freddy Krueger)2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/utptC0Qe6G332tYHablXEedZJsg.jpg"group-title="Sagas",Pesadilla En La Calle Elm (Freddy Krueger)2
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%202%20freddys%20revenge.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zUOyVY0cvDHOOUGr3k2bXrN9L0.jpg"group-title="Sagas",Pesadilla en la Calle ELM (Freddy Krueger)3
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%203%20dream%20warriors.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j63ogRr3vLo7BXwBshxzzGdl7XO.jpg"group-title="Sagas",Pesadilla en la Calle ELM (Freddy Krueger)4
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%204%20the%20dream%20master.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg"group-title="Sagas",Pesadilla en la Calle ELM (Freddy Krueger)5
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%205%20the%20dream%20child.mkv
-#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg"group-title="Sagas",Pesadilla en la Calle ELM (Freddy Krueger)6
-http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%206.mkv
-#EXTINF:-1 tvg-name="Piratas Del Caribe 2: El Cofre De La Muerte" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/33csnYX0xLObW0AsAqjMdhomCLe.jpg"group-title="Sagas",Piratas Del Caribe 2: El Cofre De La Muerte
-http://tux-vod.dynu.com/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv
-#EXTINF:-1 tvg-name="Piratas del Caribe: En el Fin del Mundo" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3V7UXeungWhX7j3QCybv5UWTYPa.jpg"group-title="Sagas",Piratas del Caribe: En el Fin del Mundo
-http://tux-vod.dynu.com/peliculas/720/pirates%20of%20the%20caribbean%20at%20worlds%20end.mkv
-#EXTINF:-1 tvg-name="Piratas Del Caribe: La Maldición Del Perla Negra" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8zHnkTGyAImBcI49a1xFJHUjbaK.jpg"group-title="Sagas",Piratas Del Caribe: La Maldición Del Perla Negra
-http://tux-vod.dynu.com/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv
-#EXTINF:-1 tvg-name="Piratas Del Caribe: La Venganza De Salazar" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/net3hZOe33XbieLzVkfJsQEdig2.jpg"group-title="Sagas",Piratas Del Caribe: La Venganza De Salazar
-http://tux-vod.dynu.com/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv
-#EXTINF:-1 tvg-name="Piratas Del Caribe: Navegando Aguas Misteriosas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/elZ79uhtQ43xUvcCmdDXI3cN5AU.jpg"group-title="Sagas",Piratas Del Caribe: Navegando Aguas Misteriosas
-http://tux-vod.dynu.com/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv
-#EXTINF:-1 tvg-name="Qué Pasó Ayer? (2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rqeim09TdaflSvPNVnCTBjUHlKu.jpg"group-title="Sagas",Qué Pasó Ayer? (2009)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover.mkv
-#EXTINF:-1 tvg-name="Qué Pasó Ayer? Parte II.-(2011)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u8B1a1AEhZ0k2mvPvzOYSJDnlge.jpg"group-title="Sagas",Qué Pasó Ayer? Parte II.-(2011)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20II.mkv
-#EXTINF:-1 tvg-name="Qué pasó ayer? Parte III (2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jxhkMvcdbk9RhobvURI1HeVrp3E.jpg"group-title="Sagas",Qué pasó ayer? Parte III (2013)
-http://vod.tuxchannel.tv/peliculas/720/the%20hangover%20part%20III.mkv
-#EXTINF:-1 tvg-name="Rápido Y Furioso" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqY0ITBgT7A82poL9jv851qdnIb.jpg"group-title="Sagas",Rápido Y Furioso
-http://tux-vod.dynu.com/peliculas/720/the%20fast%20and%20the%20furious.mkv
-#EXTINF:-1 tvg-name="Rápidos Y Furiosos 5in Control" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDztZS30sheoqnJnKyO4QMnf3f8.jpg"group-title="Sagas",Rápidos Y Furiosos 5in Control
-http://tux-vod.dynu.com/peliculas/720/fast%20five.mkv
-#EXTINF:-1 tvg-name="Rápidos y furiosos 7" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wurKlC3VKUgcfsn0K51MJYEleS2.jpg"group-title="Sagas",Rápidos y furiosos 7
-http://tux-vod.dynu.com/peliculas/720/fast%20and%20furious%207.mkv
-#EXTINF:-1 tvg-name="Rápidos Y Furiosos 8" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qsgNh8vvg6cSldUHb0L76X3rR6.jpg"group-title="Sagas",Rápidos Y Furiosos 8
-http://tux-vod.dynu.com/peliculas/720/the%20fate%20of%20the%20furious.mkv
-#EXTINF:-1 tvg-name="Rec" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKytGaDd5T4C4aGj43s0ALvVsux.jpg"group-title="Sagas",Rec
-http://tux-vod.dynu.com/peliculas/720/rec%201.mkv
-#EXTINF:-1 tvg-name="Rec 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg"group-title="Sagas",Rec 4
-http://tux-vod.dynu.com/peliculas/720/rec%204.mkv
-#EXTINF:-1 tvg-name="Rec II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBfXkPxazs6lIfqcDjYyDRsEG5.jpg"group-title="Sagas",Rec II
-http://tux-vod.dynu.com/peliculas/720/rec%202.mkv
-#EXTINF:-1 tvg-name="Rec III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2WKOO1Rt5TuBM0h9Jfpgy8crWP.jpg"group-title="Sagas",Rec III
-http://tux-vod.dynu.com/peliculas/720/rec%203.mkv
-#EXTINF:-1 tvg-name="Resident Evil" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8kYxuHNkFkhA7I4IKAk8sN9bdY.jpg"group-title="Sagas",Resident Evil
-http://tux-vod.dynu.com/peliculas/720/resident%20evil.mkv
-#EXTINF:-1 tvg-name="Residente Evil 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg"group-title="Sagas",Residente Evil 3
-http://tux-vod.dynu.com/peliculas/720/resident%20evil%20extinction.mkv
-#EXTINF:-1 tvg-name="Residente Evil 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftTnuBM5vJ8XcwkCWzZB7qNgOju.jpg"group-title="Sagas",Residente Evil 4
-http://tux-vod.dynu.com/peliculas/720/resident%20evil%20afterlife.mkv
-#EXTINF:-1 tvg-name="Residente Evil 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohdUDWVlcbuWphaLu6wS91xdJ73.jpg"group-title="Sagas",Residente Evil 5
-http://tux-vod.dynu.com/peliculas/720/resident%20evil%20retribution.mkv
-#EXTINF:-1 tvg-name="Residente Evil 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqc5bafK2kdY4j8qwVH5zIwIIx.jpg"group-title="Sagas",Residente Evil 6
-http://tux-vod.dynu.com/peliculas/720/resident%20evil%20the%20final%20chapter.mkv
-#EXTINF:-1 tvg-name="Rio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK78D6RCCujJyr6B8o1xyZSzk64.jpg"group-title="Sagas",Rio
-http://tux-vod.dynu.com/peliculas/720/rio.mkv
-#EXTINF:-1 tvg-name="Rio II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xx1k3kCfIs95eAMa1pglXv74cRp.jpg"group-title="Sagas",Rio II
-http://tux-vod.dynu.com/peliculas/720/rio%202.mkv
-#EXTINF:-1 tvg-name="Robocop" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6yuoqjfdkBCONNFLgh9EDviyOMx.jpg"group-title="Sagas",Robocop
-http://tux-vod.dynu.com/peliculas/720/robocop%201.mkv
-#EXTINF:-1 tvg-name="Robocop II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcDxGqkUWcTwqkwUOypDlIoENfi.jpg"group-title="Sagas",Robocop II
-http://tux-vod.dynu.com/peliculas/720/robocop%202.mkv
-#EXTINF:-1 tvg-name="Robocop III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZALehMaDh53qi0n3zPu0yG8eAG.jpg"group-title="Sagas",Robocop III
-http://tux-vod.dynu.com/peliculas/720/robocop%203.mkv
-#EXTINF:-1 tvg-name="Robocop(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ej8wIzOYBgWQ5XlpeFulnkHAoI.jpg"group-title="Sagas",Robocop(2014)
-http://tux-vod.dynu.com/peliculas/720/robocop%202014.mkv
-#EXTINF:-1 tvg-name="Saw" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg"group-title="Sagas",Saw
-http://tux-vod.dynu.com/peliculas/720/saw%20I.mkv
-#EXTINF:-1 tvg-name="Saw 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59fXLOUjIvqoJUJm206ewGyCwHj.jpg"group-title="Sagas",Saw 2
-http://tux-vod.dynu.com/peliculas/720/saw%20II.mkv
-#EXTINF:-1 tvg-name="Saw 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfl7ti4ataetiyoOg3SI0FA9KeP.jpg"group-title="Sagas",Saw 3
-http://tux-vod.dynu.com/peliculas/720/saw%20III.mkv
-#EXTINF:-1 tvg-name="Saw 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YM09nbc5YkEEqNJV6vNr5mzUC.jpg"group-title="Sagas",Saw 4
-http://tux-vod.dynu.com/peliculas/720/saw%20IV.mkv
-#EXTINF:-1 tvg-name="Saw 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9O1PDgz8hats6MYg48dBiTtnUSy.jpg"group-title="Sagas",Saw 5
-http://tux-vod.dynu.com/peliculas/720/saw%20V.mkv
-#EXTINF:-1 tvg-name="Saw 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nbj6PhEYIT5IVtzy1TSAVX8flAM.jpg"group-title="Sagas",Saw 6
-http://tux-vod.dynu.com/peliculas/720/saw%20VI.mkv
-#EXTINF:-1 tvg-name="Saw 7" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJzINVqNpsb3W7DA1gmToWbjmrL.jpg"group-title="Sagas",Saw 7
-http://tux-vod.dynu.com/peliculas/720/saw%20VII.mkv
-#EXTINF:-1 tvg-name="Scary Movie" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHWR3YplPQWciYzxEity2kyDoDn.jpg"group-title="Sagas",Scary Movie
-http://tux-vod.dynu.com/peliculas/720/scary%20movie.mkv
-#EXTINF:-1 tvg-name="Scary Movie 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg"group-title="Sagas",Scary Movie 5
-http://tux-vod.dynu.com/peliculas/720/scary%20movie%205%20el%20mal%20ya%20viene.mkv
-#EXTINF:-1 tvg-name="Scream" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3jyJq4fNcNljJOVhux7cvCBFui.jpg"group-title="Sagas",Scream
-http://tux-vod.dynu.com/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
-#EXTINF:-1 tvg-name="Scream 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/euL23DkvjtVVFVhZ36JmVCZ7BrL.jpg"group-title="Sagas",Scream 2
-http://tux-vod.dynu.com/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
-#EXTINF:-1 tvg-name="Scream 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg"group-title="Sagas",Scream 3
-http://tux-vod.dynu.com/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
-#EXTINF:-1 tvg-name="Scream 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg"group-title="Sagas",Scream 4
-http://tux-vod.dynu.com/peliculas/720/scream%204.mkv
-#EXTINF:-1 tvg-name="Shrek" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTQONM7jt1yv2lL972TtmWO0UIZ.jpg"group-title="Sagas",Shrek
-http://tux-vod.dynu.com/peliculas/720/shrek.mkv
-#EXTINF:-1 tvg-name="Shrek 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/knRt4E8KyfwEv0SVu9LsLvD28IQ.jpg"group-title="Sagas",Shrek 2
-http://tux-vod.dynu.com/peliculas/720/shrek%202.mkv
-#EXTINF:-1 tvg-name="Shrek: Para Siempre" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/11K03KebrdD8nUlGFJX3rSL3KHK.jpg"group-title="Sagas",Shrek: Para Siempre
-http://tux-vod.dynu.com/peliculas/720/shrek%20forever%20after.mkv
-#EXTINF:-1 tvg-name="Silent Hill" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg"group-title="Sagas",Silent Hill
-http://tux-vod.dynu.com/peliculas/720/silent%20hill.mkv
-#EXTINF:-1 tvg-name="Silent Hill 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7936Tglq1tM3eMXpssyrn0CxjeD.jpg"group-title="Sagas",Silent Hill 2
-http://tux-vod.dynu.com/peliculas/720/silent%20hill%20revelation.mkv
-#EXTINF:-1 tvg-name="Spiderman" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCDaKZLRkrVVtPNyHxUfKvepW1N.jpg"group-title="Sagas",Spiderman
-http://tux-vod.dynu.com/peliculas/720/spiderman.mkv
-#EXTINF:-1 tvg-name="Spiderman : De Regreso A Casa(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4vEhYjOG3CEdh5GIycTWk5vz7T.jpg"group-title="Sagas",Spiderman : De Regreso A Casa(2017)
-http://tux-vod.dynu.com/peliculas/720/spider%20man%20homecoming.mkv
-#EXTINF:-1 tvg-name="Spiderman 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6i7Z36tahfivXmr3SeQBtt4oW7C.jpg"group-title="Sagas",Spiderman 2
-http://tux-vod.dynu.com/peliculas/720/spiderman%202.mkv
-#EXTINF:-1 tvg-name="Spiderman 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjhalSrfqe0nXmNflgY76nN4zpn.jpg"group-title="Sagas",Spiderman 3
-http://tux-vod.dynu.com/peliculas/720/spiderman%203.mkv
-#EXTINF:-1 tvg-name="Spider-Man: Lejos de Casa" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6BgCad0B5MbtAmJuyXVx8q97zVD.jpg"group-title="Sagas",Spider-Man: Lejos de Casa
-http://tux-vod.dynu.com/peliculas/720/spider-man%20far%20from%20home%202019.mkv
-#EXTINF:-1 tvg-name="Star Trek: En la Oscuridad(2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsszT6JeTAgOXVBfcVbukP1EqyX.jpg"group-title="Sagas",Star Trek: En la Oscuridad(2013)
-http://ns5306-24.net/peli293.ip-149-5culas/720/en%20la%20oscuridad.mkv
-#EXTINF:-1 tvg-name="Temblores" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtWCyHhxiUO65ET3zXltNWUysJY.jpg"group-title="Sagas",Temblores
-http://tux-vod.dynu.com/peliculas/720/tremors.mkv
-#EXTINF:-1 tvg-name="Temblores 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg"group-title="Sagas",Temblores 2
-http://tux-vod.dynu.com/peliculas/720/tremors%20II.mkv
-#EXTINF:-1 tvg-name="Temblores 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg"group-title="Sagas",Temblores 3
-http://tux-vod.dynu.com/peliculas/720/tremors%20III.mkv
-#EXTINF:-1 tvg-name="Temblores 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg"group-title="Sagas",Temblores 4
-http://tux-vod.dynu.com/peliculas/720/tremors%20IV.mkv
-#EXTINF:-1 tvg-name="Temblores 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg"group-title="Sagas",Temblores 5
-http://tux-vod.dynu.com/peliculas/720/tremors%205%20bloodlines%202015.mkv
-#EXTINF:-1 tvg-name="Temblores 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2YZnTT9zdxRdXBKRb0K7BoM0jF.jpg"group-title="Sagas",Temblores 6
-http://tux-vod.dynu.com/peliculas/720/tremors%20a%20cold%20day%20in%20hell%202018.mkv
-#EXTINF:-1 tvg-name="Tengo Ganas De Ti(2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s16By5DjE1QJDPDfmTnbGozak0H.jpg"group-title="Sagas",Tengo Ganas De Ti(2012)
-http://tux-vod.dynu.com/peliculas/720/tengo%20ganas%20de%20ti.mkv
-#EXTINF:-1 tvg-name="Terminator" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p00sDPhEvzgr9J0mI2OtTWt0TtX.jpg"group-title="Sagas",Terminator
-http://tux-vod.dynu.com/peliculas/720/terminator.mkv
-#EXTINF:-1 tvg-name="Terminator 2: El Juicio Final" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gqOQxasdauUk2zRdYegiqu4ptel.jpg"group-title="Sagas",Terminator 2: El Juicio Final
-http://tux-vod.dynu.com/peliculas/720/terminator%202%20el%20juicio%20final.mkv
-#EXTINF:-1 tvg-name="Terminator 3: La Rebelión De Las Máquinas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg"group-title="Sagas",Terminator 3: La Rebelión De Las Máquinas
-http://tux-vod.dynu.com/peliculas/720/terminator%203%20la%20rebelion%20de%20las%20maquinas.mkv
-#EXTINF:-1 tvg-name="Terminator 5 Génesis" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vky6H7mCBjSsg1GMGJtJpGUeVS1.jpg"group-title="Sagas",Terminator 5 Génesis
-http://tux-vod.dynu.com/peliculas/720/terminator%20genisys.mkv
-#EXTINF:-1 tvg-name="Terminator Salvation" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg"group-title="Sagas",Terminator Salvation
-http://tux-vod.dynu.com/peliculas/720/terminator%20la%20salvacion.mkv
-#EXTINF:-1 tvg-name="The Avengers: Los Vengadores" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO6jI49iJSaZOCsAV0Ta7QApTVZ.jpg"group-title="Sagas",The Avengers: Los Vengadores
-https://stalkertvlatino.com/DISE%c3%91ODEMODAELSOLYLALUNAYLASESTRELLABRILLARENTUAUSENCIA/6056.mkv
-#EXTINF:-1 tvg-name="The Purge" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ynDDbzVge9AzuTkeyw8JcKr58Cq.jpg"group-title="Sagas",The Purge
+#EXTINF:-1 tvg-name="!No Vayas a Colgar¡(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cZYTKvFKYtuUybTUmnIiUKCjNnZ.jpg"group-title="Terror",!No Vayas a Colgar¡(2016)
+http://tux-vod.dynu.com/peliculas/720/dont%20hang%20up.mkv
+#EXTINF:-1 tvg-name="¡Huye!(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xiMoqa0bmjuyuXYqKGwrTSJL8nI.jpg"group-title="Terror",¡Huye!(2017)
+http://tux-vod.dynu.com/peliculas/720/get%20out.mkv
+#EXTINF:-1 tvg-name="¡Madre!(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bKqXhnc9gCF3Zp24kySVV3jzavc.jpg"group-title="Terror",¡Madre!(2017)
+http://tux-vod.dynu.com/peliculas/720/mother.mkv
+#EXTINF:-1 tvg-name="¿Eres tu Papa?(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s5PT5v17J3a4JJtcWXv3RN6HVu.jpg"group-title="Terror",¿Eres tu Papa?(2018)
+http://tux-vod.dynu.com/peliculas/720/is%20that%20you%202018.mkv
+#EXTINF:-1 tvg-name="12 Horas Para Sobrevivir: El Inicio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aO1DumNAMId7aYZyWScDRx4AQfu.jpg"group-title="Terror",12 Horas Para Sobrevivir: El Inicio
 http://tux-vod.dynu.com/peliculas/720/the%20purge%20anarchy.mkv
-#EXTINF:-1 tvg-name="Thor" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfjJLZK9JvflsKM3gVMnX7QJzKJ.jpg"group-title="Sagas",Thor
-http://tux-vod.dynu.com/peliculas/720/thor.mkv
-#EXTINF:-1 tvg-name="Thor: Ragnarok" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgVe7blGP5P71STv2TBXmO86qPo.jpg"group-title="Sagas",Thor: Ragnarok
-http://tux-vod.dynu.com/peliculas/720/thor%20ragnarok.mkv
-#EXTINF:-1 tvg-name="Thor: Un Mundo Oscuro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1BiaYVCTSSQpSI4mLFQqgR6oHr.jpg"group-title="Sagas",Thor: Un Mundo Oscuro
-http://tux-vod.dynu.com/peliculas/720/thor%20the%20dark%20world%202013.mkv
-#EXTINF:-1 tvg-name="Tomb Raider(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fLMvphhOso5w3C3m0HOkAxzVCZ8.jpg"group-title="Sagas",Tomb Raider(2018)
-http://tux-vod.dynu.com/peliculas/720/tomb%20raider%202018.mkv
-#EXTINF:-1 tvg-name="Toy Story" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/GdMDcacJra4ZmDaBIRASIpzjmU.jpg"group-title="Sagas",Toy Story
-http://tux-vod.dynu.com/peliculas/720/toy%20story.mkv
-#EXTINF:-1 tvg-name="Toy Story 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zI0N9blJ9DwuV2xgl3TdGFLtn0.jpg"group-title="Sagas",Toy Story 2
-http://tux-vod.dynu.com/peliculas/720/toy%20story%202.mkv
-#EXTINF:-1 tvg-name="Toy Story 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4cpGytCB0eqvRks4FAlJoUJiFPG.jpg"group-title="Sagas",Toy Story 3
-http://tux-vod.dynu.com/peliculas/720/toy%20story%203.mkv
-#EXTINF:-1 tvg-name="Transformers" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrqPcURobs7n1ivKiLcsyx1BwOA.jpg"group-title="Sagas",Transformers
-http://tux-vod.dynu.com/peliculas/720/transformers.mkv
-#EXTINF:-1 tvg-name="Transformers 2 La Venganza De Los Caídos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nXJhfm8SNwnRfRNy7wJSfqNJ4lO.jpg"group-title="Sagas",Transformers 2 La Venganza De Los Caídos
-http://tux-vod.dynu.com/peliculas/720/transformers%20revenge%20of%20the%20fallen.mkv
-#EXTINF:-1 tvg-name="Transformers 3 El Lado Oscuro De La Luna" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMqXNNgzTaxalU1ve9KevpELiGe.jpg"group-title="Sagas",Transformers 3 El Lado Oscuro De La Luna
-http://tux-vod.dynu.com/peliculas4k/transformers%20dark%20of%20the%20moon.mkv
-#EXTINF:-1 tvg-name="Transformers 4  La Era De La Extinción" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owqV5Qo2DMMomfB1fS6xYWv3yEh.jpg"group-title="Sagas",Transformers 4  La Era De La Extinción
-http://tux-vod.dynu.com/peliculas/720/transformers%20age%20of%20extinction.mkv
-#EXTINF:-1 tvg-name="Transformers 5 El Último Caballero" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8d76iKmHvNyjzbTGpTqtHelnyy.jpg"group-title="Sagas",Transformers 5 El Último Caballero
-http://tux-vod.dynu.com/peliculas/720/transformers%20the%20last%20knight.mkv
-#EXTINF:-1 tvg-name="Transporter 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwDiK9Dd7cHMAEWP9b8flhu7Wlg.jpg"group-title="Sagas",Transporter 2
-http://tux-vod.dynu.com/peliculas/720/the%20transporter%202.mkv
-#EXTINF:-1 tvg-name="Transporter 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6jWpnsmiFJR9idlCOUCeP3m03I.jpg"group-title="Sagas",Transporter 3
-http://tux-vod.dynu.com/peliculas/720/transporter%203.mkv
-#EXTINF:-1 tvg-name="Tremors: Shrieker Island (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg"group-title="Sagas",Tremors: Shrieker Island (2020)
+#EXTINF:-1 tvg-name="12 Horas Para Sobrevivir: El Inicio  (The Purge 2)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg"group-title="Terror",12 Horas Para Sobrevivir: El Inicio  (The Purge 2)
+http://tux-vod.dynu.com/peliculas/720/the%20purge%20election%20year.mkv
+#EXTINF:-1 tvg-name="13 Fantasmas(2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg"group-title="Terror",13 Fantasmas(2001)
+http://tux-vod.dynu.com/peliculas/720/thirteen%20ghosts.mkv
+#EXTINF:-1 tvg-name="1922" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg"group-title="Terror",1922
+http://tux-vod.dynu.com/peliculas/720/1922.mkv
+#EXTINF:-1 tvg-name="3 From Hell (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZVrBhFRiYIJ4N0hvYYGraBcD0t.jpg"group-title="Terror",3 From Hell (2019)
+http://tux-vod.dynu.com/peliculas/720/3%20from%20hell%202019.mkv
+#EXTINF:-1 tvg-name="30 Dias De Oscuridad(2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg"group-title="Terror",30 Dias De Oscuridad(2007)
+http://tux-vod.dynu.com/peliculas/720/30%20days%20of%20night.mkv
+#EXTINF:-1 tvg-name="4/20 Massacre(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9YP9vQBsYHylBsKwsD6VStbbX8j.jpg"group-title="Terror",4/20 Massacre(2018)
+http://tux-vod.dynu.com/peliculas/720/420%20massacre.mkv
+#EXTINF:-1 tvg-name="60 Minutos para Morir(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dW2ismpPe22MaK9m4CoFn7WsDsm.jpg"group-title="Terror",60 Minutos para Morir(2017)
+http://tux-vod.dynu.com/peliculas/720/escape%20room.mkv
+#EXTINF:-1 tvg-name="7 Deseos(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/heux5kRKFHG9XDUNN8kkeFaSx9p.jpg"group-title="Terror",7 Deseos(2017)
+http://tux-vod.dynu.com/peliculas/720/wish%20upon.mkv
+#EXTINF:-1 tvg-name="7500(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg"group-title="Terror",7500(2014)
+http://tux-vod.dynu.com/peliculas/720/7500.mkv
+#EXTINF:-1 tvg-name="A Dark Song(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fguce8M1bZnWjVkRWCFh9P3kt6A.jpg"group-title="Terror",A Dark Song(2016)
+http://tux-vod.dynu.com/peliculas/720/a%20dark%20song.mkv
+#EXTINF:-1 tvg-name="A Demon Within(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/owPn847icCFSQFBPqM2hgamEUsI.jpg"group-title="Terror",A Demon Within(2017)
+http://tux-vod.dynu.com/peliculas/720/a%20demon%20within%202017.mkv
+#EXTINF:-1 tvg-name="A Prueba de Muerte(2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2IZGAPeBaJfAEFsjWyhU6JGrhxW.jpg"group-title="Terror",A Prueba de Muerte(2007)
+http://tux-vod.dynu.com/peliculas/720/grindhouse.mkv
+#EXTINF:-1 tvg-name="Abracadabra(1993)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OyJXg65zxOmDGsxdIkuOclnpYa.jpg"group-title="Terror",Abracadabra(1993)
+http://tux-vod.dynu.com/peliculas/720/hocus%20pocus.mkv
+#EXTINF:-1 tvg-name="Actividad Paranormal 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Vuhm8L50nhVRUDqT5hbP4aG3x.jpg"group-title="Terror",Actividad Paranormal 2
+http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%202.mkv
+#EXTINF:-1 tvg-name="Actividad Paranormal 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zthZf2pnhmtQGFZhbHEcUlilsL4.jpg"group-title="Terror",Actividad Paranormal 4
+http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%204.mkv
+#EXTINF:-1 tvg-name="Actividad Paranormal Dimension Fantasma" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wq7z719J82BvcxYfc4i2CpKvWCU.jpg"group-title="Terror",Actividad Paranormal Dimension Fantasma
+http://tux-vod.dynu.com/peliculas/720/paranormal%20activity%20the%20ghost%20dimension.mkv
+#EXTINF:-1 tvg-name="Alien - El Octavo Pasajero" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ9cAe5FxexJjpCaeiETbXzz3Fs.jpg"group-title="Terror",Alien - El Octavo Pasajero
+http://tux-vod.dynu.com/peliculas/720/alien.mkv
+#EXTINF:-1 tvg-name="Alien 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pvT2FoGChCeifaMwx6Ubc8Loixp.jpg"group-title="Terror",Alien 3
+http://tux-vod.dynu.com/peliculas/720/alien%203.mkv
+#EXTINF:-1 tvg-name="Alien vs. Predator" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vP2Y3oTJQhP4rJehbTa2yUxn6df.jpg"group-title="Terror",Alien vs. Predator
+http://tux-vod.dynu.com/peliculas/720/avp%20alien%20vs%20predator.mkv
+#EXTINF:-1 tvg-name="Alien: La Resurrección" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZRlkaeMBwj6SByLNkBv8m8r6JU.jpg"group-title="Terror",Alien: La Resurrección
+http://tux-vod.dynu.com/peliculas/720/alien%20resurrection.mkv
+#EXTINF:-1 tvg-name="Aliens vs. Depredador 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3U0JSDmyqXlCOlXeCcPD5PQmp9Q.jpg"group-title="Terror",Aliens vs. Depredador 2
+http://tux-vod.dynu.com/peliculas/720/avpr%20aliens%20vs%20predator%20requiem.mkv
+#EXTINF:-1 tvg-name="Almas Condenadas(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVEpj7YytRxCL5xJqW1L84al9yC.jpg"group-title="Terror",Almas Condenadas(2010)
+http://tux-vod.dynu.com/peliculas/720/espiritus.mkv
+#EXTINF:-1 tvg-name="Amanecer de los Muertos(2004)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlpvAnlkNG98qtK0poqSJ35KHVZ.jpg"group-title="Terror",Amanecer de los Muertos(2004)
+http://tux-vod.dynu.com/peliculas/720/dawn%20of%20the%20dead.mkv
+#EXTINF:-1 tvg-name="Amenaza En Lo Profundo (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fLJbMFIljiYssJjAgm0GPBysTf.jpg"group-title="Terror",Amenaza En Lo Profundo (2020)
+http://vod.tuxchannel.tv/peliculas/720/underwater%202020.mkv
+#EXTINF:-1 tvg-name="Amityville: El Despertar(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ihROTaicjrYu6buBqn79M6OHvA6.jpg"group-title="Terror",Amityville: El Despertar(2017)
+http://tux-vod.dynu.com/peliculas/720/amityville%20the%20awakening.mkv
+#EXTINF:-1 tvg-name="Amulet (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dUe2nUjJCEshNGqKGyi3OZDqII.jpg"group-title="Terror",Amulet (2020)
+http://vod.tuxchannel.tv/peliculas/720/amulet%202020.mkv
+#EXTINF:-1 tvg-name="Anaconda" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtuBvGph8BnqgfFzIDMaVg5F8GB.jpg"group-title="Terror",Anaconda
+http://tux-vod.dynu.com/peliculas/720/anaconda%201997.mkv
+#EXTINF:-1 tvg-name="Anacondas 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sO7PK08LkIXluGjqFvvU1jWjmVV.jpg"group-title="Terror",Anacondas 2
+http://tux-vod.dynu.com/peliculas/720/anacondas%20the%20hunt%20for%20the%20blood%20orchid%202004.mkv
+#EXTINF:-1 tvg-name="Annabelle 3: Vuelve A Casa" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg"group-title="Terror",Annabelle 3: Vuelve A Casa
+http://tux-vod.dynu.com/peliculas/720/annabelle%203%20comes%20home%202019.mkv
+#EXTINF:-1 tvg-name="Apollo 18 (2011)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysCDNj0hYQa55ZKSVyc16jOvJNa.jpg"group-title="Terror",Apollo 18 (2011)
+http://tux-vod.dynu.com/peliculas/720/apolo%2018.mkv
+#EXTINF:-1 tvg-name="Apostle(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rd269f2Yftxxam3EOJPYVwrvjIJ.jpg"group-title="Terror",Apostle(2018)
+http://tux-vod.dynu.com/peliculas/720/apostle.mkv
+#EXTINF:-1 tvg-name="Arcangeles (2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXHvEFPKESYHoq5Dba1XCxJW5K7.jpg"group-title="Terror",Arcangeles (2007)
+http://tux-vod.dynu.com/peliculas/720/gabriel%202007.mkv
+#EXTINF:-1 tvg-name="Asylum: Twisted Horror And Fantasy (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rxKic2PDrheSXMCG82vm9LAm8e.jpg"group-title="Terror",Asylum: Twisted Horror And Fantasy (2020)
+http://vod.tuxchannel.tv/peliculas/720/asylum%20twisted%20horror%20and%20fantasy%20tales%202020.mkv
+#EXTINF:-1 tvg-name="Attack the Block Ataque extraterrestre" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d7eVbUOHSyBofZBMnUGBZ0nbg4b.jpg"group-title="Terror",Attack the Block Ataque extraterrestre
+http://tux-vod.dynu.com/peliculas/720/attack%20the%20block.mkv
+#EXTINF:-1 tvg-name="Aulas Peligrosas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/60Jge3rxgiqzpehuGcuITJveO44.jpg"group-title="Terror",Aulas Peligrosas
+http://tux-vod.dynu.com/peliculas/720/the%20faculty.mkv
+#EXTINF:-1 tvg-name="Await Further Instructions" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/afvi5tVi5S3Ux9faZaI32SmPRkj.jpg"group-title="Terror",Await Further Instructions
+http://tux-vod.dynu.com/peliculas/720/await%20futher%20instructions%202018.mkv
+#EXTINF:-1 tvg-name="Bad Hair (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/979LvAwRGCkVFgJ04uyPcsPaPF2.jpg"group-title="Terror",Bad Hair (2020)
+http://vod.tuxchannel.tv/peliculas/720/subtituladas/bad%20hair%202020%20sub.mkv
+#EXTINF:-1 tvg-name="Banana Splits (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vG9FY2wHVwOOQfqNlUt2LbRzRNl.jpg"group-title="Terror",Banana Splits (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20banana%20splits%20movie%202019.mkv
+#EXTINF:-1 tvg-name="Beber De Tu Sangre (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4b6HY7rud6LMO00EatxrJfFaBJV.jpg"group-title="Terror",Beber De Tu Sangre (2020)
+http://vod.tuxchannel.tv/peliculas/720/beber%20de%20tu%20sangre%202020.mkv
+#EXTINF:-1 tvg-name="Brightburn: Hijo de la Oscuridad(2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bQmRemkGS3SMAexgZND6ey02lYW.jpg"group-title="Terror",Brightburn: Hijo de la Oscuridad(2019)
+http://tux-vod.dynu.com/peliculas/720/brightburn%202019.mkv
+#EXTINF:-1 tvg-name="Bulbbul(2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4XYEqHqvcf6vxFhNyeKZz5xbUfV.jpg"group-title="Terror",Bulbbul(2020)
+http://vod.tuxchannel.tv/peliculas/720/bulbbul%202020.mkv
+#EXTINF:-1 tvg-name="Camino Hacia El Terror" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o6IVGK3AGF1OHmAjOE7vonrUYkM.jpg"group-title="Terror",Camino Hacia El Terror
+http://tux-vod.dynu.com/peliculas/720/km%20666%20desvio%20al%20infierno.mkv
+#EXTINF:-1 tvg-name="Camino Hacia El Terror 3: Abandonado Para Morir" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ta9rVyblrR53L8hSzq0Vxg2a4OB.jpg"group-title="Terror",Camino Hacia El Terror 3: Abandonado Para Morir
+http://tux-vod.dynu.com/peliculas/720/wrong%20turn%203%20left%20for%20dead.mkv
+#EXTINF:-1 tvg-name="Camino Hacia el Terror 4: Inicio Sangriento" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4yyI3YLbcOApCT3KcEW6FCfzLM.jpg"group-title="Terror",Camino Hacia el Terror 4: Inicio Sangriento
+http://tux-vod.dynu.com/peliculas/720/wrong%20turn%204%20bloody%20beginnings.mkv
+#EXTINF:-1 tvg-name="Camino Hacia El Terror 5: El Linaje Caníbal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3nuFv4k5TUJEKZxqrbG9cdNKr2.jpg"group-title="Terror",Camino Hacia El Terror 5: El Linaje Caníbal
+http://tux-vod.dynu.com/peliculas/720/wrong%20turn%205.mkv
+#EXTINF:-1 tvg-name="Camino Hacia El Terror 6: Herencia De Muerte" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQCtBbfKfDwFxGxGEsFustKCr3S.jpg"group-title="Terror",Camino Hacia El Terror 6: Herencia De Muerte
+http://tux-vod.dynu.com/peliculas/720/wrong%20turn%206%20last%20resort.mkv
+#EXTINF:-1 tvg-name="Cazador de Demonios(2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGBmTiNomYCk6Lr4Gkhbssg0m82.jpg"group-title="Terror",Cazador de Demonios(2012)
+http://tux-vod.dynu.com/peliculas/720/gallowwalkers.mkv
+#EXTINF:-1 tvg-name="Cementerio De Animales (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg"group-title="Terror",Cementerio De Animales (2019)
+http://tux-vod.dynu.com/peliculas/720/pet%20sematary%202019.mkv
+#EXTINF:-1 tvg-name="Chucky: Muñeco Diabólico 2019" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v3u6WnH55OvtZKyFHVY984vGprG.jpg"group-title="Terror",Chucky: Muñeco Diabólico 2019
+http://tux-vod.dynu.com/peliculas/720/childs%20play%202019.mkv
+#EXTINF:-1 tvg-name="Clowtown(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Uqx7NitLn4CO1syvTqN6Bb3F6A.jpg"group-title="Terror",Clowtown(2016)
+http://tux-vod.dynu.com/peliculas/720/clowntown.mkv
+#EXTINF:-1 tvg-name="Come Play (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e98dJUitAoKLwmzjQ0Yxp1VQrnU.jpg"group-title="Terror",Come Play (2020)
+http://vod.tuxchannel.tv/peliculas/720/come%20play%202020.mkv
+#EXTINF:-1 tvg-name="Conjuros Del Mas Alla(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0WLRyT0AmUi41nVXBnqmJshIBn.jpg"group-title="Terror",Conjuros Del Mas Alla(2016)
+http://tux-vod.dynu.com/peliculas/720/conjuros%20del%20mas%20alla.mkv
+#EXTINF:-1 tvg-name="Crucifixion(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4K1HSpc0p9VOQCxOTAb0syYDmS.jpg"group-title="Terror",Crucifixion(2017)
+http://tux-vod.dynu.com/peliculas/720/crucifixion.mkv
+#EXTINF:-1 tvg-name="Cuarentena 2(2011)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvQkuTuH5QfSm2jh78t2i0iYwB7.jpg"group-title="Terror",Cuarentena 2(2011)
+http://tux-vod.dynu.com/peliculas/720/quarantine%202%20terminal%202011.mkv
+#EXTINF:-1 tvg-name="Cucuy: The Boogeyman(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fi7yCzIPFek5tLY4coe4178SANJ.jpg"group-title="Terror",Cucuy: The Boogeyman(2018)
+http://tux-vod.dynu.com/peliculas/720/cucuy%20the%20boogeyman%202018.mkv
+#EXTINF:-1 tvg-name="Cuenta Bloqueada(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p7m3sSQhnoT2uuxUsxF4mQX6opr.jpg"group-title="Terror",Cuenta Bloqueada(2018)
+http://tux-vod.dynu.com/peliculas/720/cuenta%20bloqueada.mkv
+#EXTINF:-1 tvg-name="Cuidado Con Lo Que Deseas (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lG6Wx5tWOEHkOuexEvNYha3ofvM.jpg"group-title="Terror",Cuidado Con Lo Que Deseas (2020)
+http://vod.tuxchannel.tv/peliculas/720/cuidado%20con%20lo%20que%20deseas%202020.mkv
+#EXTINF:-1 tvg-name="Cult of Chucky(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjIDVSiFkQHNxT8EJFo2Kde2D4.jpg"group-title="Terror",Cult of Chucky(2017)
+http://tux-vod.dynu.com/peliculas/720/cult%20of%20chucky.mkv
+#EXTINF:-1 tvg-name="Dante Inferno(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HEKlPhoji9i6mJAImI1A98KNzv.jpg"group-title="Terror",Dante Inferno(2010)
+http://tux-vod.dynu.com/peliculas/720/dantes%20inferno.mkv
+#EXTINF:-1 tvg-name="Day of the Dead: Bloodline(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnQbbFIt6ZDtiTS88v9mXLYwMK6.jpg"group-title="Terror",Day of the Dead: Bloodline(2018)
+http://tux-vod.dynu.com/peliculas/720/day%20of%20the%20dead%20bloodline.mkv
+#EXTINF:-1 tvg-name="Dead in the Water(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/evn7F3Y04GI2NGiQ4L08wYgVBND.jpg"group-title="Terror",Dead in the Water(2018)
+http://tux-vod.dynu.com/peliculas/720/dead%20in%20the%20water%202018.mkv
+#EXTINF:-1 tvg-name="Dead Night(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg"group-title="Terror",Dead Night(2018)
+http://tux-vod.dynu.com/peliculas/720/dead%20night.mkv
+#EXTINF:-1 tvg-name="Death of Me (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8F9xUvb1JMWUMkFV2Yq3aiueAbq.jpg"group-title="Terror",Death of Me (2020)
+http://vod.tuxchannel.tv/peliculas/720/subtituladas/death%20of%20me%202020%20sub.mkv
+#EXTINF:-1 tvg-name="Deep Blue Sea" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNa8pcnF1oQUav6h3Sh6jEClmD0.jpg"group-title="Terror",Deep Blue Sea
+http://tux-vod.dynu.com/peliculas/720/deep%20blue%20sea.mkv
+#EXTINF:-1 tvg-name="Deep Blue Sea 2 (2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqjAHXMJLORx9vVsCTJ6ZPJcr3D.jpg"group-title="Terror",Deep Blue Sea 2 (2018)
+http://tux-vod.dynu.com/peliculas/720/deep%20blue%20sea%202.mkv
+#EXTINF:-1 tvg-name="Dejame Entrar(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8mw1Iv9o4BVCtfScCL0nhzolOdO.jpg"group-title="Terror",Dejame Entrar(2008)
+http://tux-vod.dynu.com/peliculas/720/let%20the%20right%20one%20in.mkv
+#EXTINF:-1 tvg-name="Dejame Entrar(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQX09oC3S4BKIg6dpKxr5oGGsIr.jpg"group-title="Terror",Dejame Entrar(2010)
+http://tux-vod.dynu.com/peliculas/720/dejame%20entrar.mkv
+#EXTINF:-1 tvg-name="Dementia 13 (2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/68nkM0GZfNS3MZsCezFNulg1hPe.jpg"group-title="Terror",Dementia 13 (2017)
+http://tux-vod.dynu.com/peliculas/720/dementia%2013.mkv
+#EXTINF:-1 tvg-name="Demonic (2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ne0wAvbmzk72svslxjuFySrXEKw.jpg"group-title="Terror",Demonic (2015)
+http://tux-vod.dynu.com/peliculas/720/demonic.mkv
+#EXTINF:-1 tvg-name="Demonio De Medianoche(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtrxCwIvpb70NR9RECkt8dPrTJd.jpg"group-title="Terror",Demonio De Medianoche(2016)
+http://tux-vod.dynu.com/peliculas/720/the%20midnight%20man.mkv
+#EXTINF:-1 tvg-name="Deseo Deseo(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dLbQgUZJKhv0C6JPMSk3m9ii4or.jpg"group-title="Terror",Deseo Deseo(2016)
+http://tux-vod.dynu.com/peliculas/720/deseo%20deseo%202016.mkv
+#EXTINF:-1 tvg-name="Despues de la Vida(2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGo25ysEUsCgllSzFhdKHC2a21b.jpg"group-title="Terror",Despues de la Vida(2009)
+http://tux-vod.dynu.com/peliculas/720/after%20life%202009.mkv
+#EXTINF:-1 tvg-name="Destino Final 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rvvKHROhxc6pMOfeYqWbUqUZYvS.jpg"group-title="Terror",Destino Final 4
+http://tux-vod.dynu.com/peliculas/720/destino%20final%204.mkv
+#EXTINF:-1 tvg-name="Destino Final 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wRzqLektUs0R6i84sjvF2dS69BW.jpg"group-title="Terror",Destino Final 5
+http://tux-vod.dynu.com/peliculas/720/destino%20final%205.mkv
+#EXTINF:-1 tvg-name="Devil the Dark(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i4w9FcFDVQLecmYZtfTUr8Qt31h.jpg"group-title="Terror",Devil the Dark(2017)
+http://tux-vod.dynu.com/peliculas/720/devil%20in%20the%20dark.mkv
+#EXTINF:-1 tvg-name="Diabolico(2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLUdUo8fNe1NSaLzFxsdDboHnYF.jpg"group-title="Terror",Diabolico(2015)
+http://tux-vod.dynu.com/peliculas/720/the%20diabolical.mkv
+#EXTINF:-1 tvg-name="Diario de un Exorcista(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGQJXU2GhfnNqJSzch7rj8irNon.jpg"group-title="Terror",Diario de un Exorcista(2016)
+http://tux-vod.dynu.com/peliculas/720/diary%20of%20an%20exorcist%20zero.mkv
+#EXTINF:-1 tvg-name="Dimensión Desconocida" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEuzZqJTEH9E4JwQyv8JtuCu22B.jpg"group-title="Terror",Dimensión Desconocida
+http://tux-vod.dynu.com/peliculas/720/twilight%20zone%20the%20movie.mkv
+#EXTINF:-1 tvg-name="Dominion: Precuela Del Exorcista" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg"group-title="Terror",Dominion: Precuela Del Exorcista
+http://tux-vod.dynu.com/peliculas/720/el%20exorcismo%20el%20comienzo%20vercion%20prohibida.mkv
+#EXTINF:-1 tvg-name="Dominion: Prequel to the Exorcist" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIH6Q5TmtIJAyjxC7rIODj3o22d.jpg"group-title="Terror",Dominion: Prequel to the Exorcist
+http://tux-vod.dynu.com/peliculas/720/dominion%20prequel%20to%20the%20exorcist.mkv
+#EXTINF:-1 tvg-name="Don't Let Go (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5eWLBmHPH4sijhUO5oC8w3Nn1Gj.jpg"group-title="Terror",Don't Let Go (2019)
+http://tux-vod.dynu.com/peliculas/720/dont%20let%20go%202019.mkv
+#EXTINF:-1 tvg-name="Dracula: La Historia Jamas Contada(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dflq9mJ99PC3I3piHYFmEzwW1q1.jpg"group-title="Terror",Dracula: La Historia Jamas Contada(2014)
+http://tux-vod.dynu.com/peliculas/720/dracula%20untold.mkv
+#EXTINF:-1 tvg-name="Dreamkatcher (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pGWhFEZ7I2ssMzVfnK6N61dHiTP.jpg"group-title="Terror",Dreamkatcher (2020)
+http://vod.tuxchannel.tv/peliculas/720/dreamkatcher%202020.mkv
+#EXTINF:-1 tvg-name="Dulce Venganza" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yszHDWwYE88r2LdqOslFOXiorEn.jpg"group-title="Terror",Dulce Venganza
+http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave.mkv
+#EXTINF:-1 tvg-name="Dulce Venganza 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/imkTGt5WFXVuYTAOFOucOgrYX4G.jpg"group-title="Terror",Dulce Venganza 2
+http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave%202.mkv
+#EXTINF:-1 tvg-name="Dulce Venganza 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jG5GDIcqiqHXkvINZSjyzBUO2vH.jpg"group-title="Terror",Dulce Venganza 3
+http://tux-vod.dynu.com/peliculas/720/i%20spit%20on%20your%20grave%203.mkv
+#EXTINF:-1 tvg-name="Dulces Sueños Mama(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jEtLpWZLBeDNELp67rXoqhxb3HI.jpg"group-title="Terror",Dulces Sueños Mama(2014)
+http://tux-vod.dynu.com/peliculas/720/dulces%20suenos%20mama.mkv
+#EXTINF:-1 tvg-name="El Atico(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ifpYp9D5g9JJD81d34KcNevTJq.jpg"group-title="Terror",El Atico(2016)
+http://tux-vod.dynu.com/peliculas/720/the%20disappointments%20room.mkv
+#EXTINF:-1 tvg-name="El bosque de los Suicidios(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bDvt0kVvdO0NsIM8xZve7qHjjim.jpg"group-title="Terror",El bosque de los Suicidios(2016)
+http://tux-vod.dynu.com/peliculas/720/el%20bosque%20de%20los%20suicidios.mkv
+#EXTINF:-1 tvg-name="El Bosque Maldito(2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXHC3pcDQ3pGjAwPAIqF1nTVfPl.jpg"group-title="Terror",El Bosque Maldito(2019)
+http://tux-vod.dynu.com/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv
+#EXTINF:-1 tvg-name="El Canal Del Demonio(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfNljD4itGf8InGmS6C3V8g4F8T.jpg"group-title="Terror",El Canal Del Demonio(2014)
+http://tux-vod.dynu.com/peliculas/720/the%20canal.mkv
+#EXTINF:-1 tvg-name="El Cazador De Sueños(2003)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cowaegRAMrtDDhEeElTboH3OXU4.jpg"group-title="Terror",El Cazador De Sueños(2003)
+http://tux-vod.dynu.com/peliculas/720/el%20cazador%20de%20suenos.mkv
+#EXTINF:-1 tvg-name="El Conjuro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg"group-title="Terror",El Conjuro
+http://tux-vod.dynu.com/peliculas/720/the%20conjuring.mkv
+#EXTINF:-1 tvg-name="El Cuarto Contacto(2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpTnb6o1LVRn2IDwn7fr6qn27I.jpg"group-title="Terror",El Cuarto Contacto(2009)
+http://tux-vod.dynu.com/peliculas/720/el%20cuarto%20contacto.mkv
+#EXTINF:-1 tvg-name="El Demonio(2001)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x2fWYlY2Ad2FL2Ad9p1HTgJEi8x.jpg"group-title="Terror",El Demonio(2001)
+http://tux-vod.dynu.com/peliculas/720/jeepers%20creepers.mkv
+#EXTINF:-1 tvg-name="El Día Que Me Perdí (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/moCnnkbzhMPp8YkxCakXDdi2Y5.jpg"group-title="Terror",El Día Que Me Perdí (2020)
+http://vod.tuxchannel.tv/peliculas/720/el%20dia%20que%20me%20perdi%202020.mkv
+#EXTINF:-1 tvg-name="El Diablo Me Dijo Que Hacer (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8k1EkPTqrTI6zpXE3WGG8MPzsWw.jpg"group-title="Terror",El Diablo Me Dijo Que Hacer (2019)
+http://tux-vod.dynu.com/peliculas/720/el%20diablo%20me%20dijo%20que%20hacer%202019.mkv
+#EXTINF:-1 tvg-name="El Duende Maldito 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnCLZ3rpy3enYSHrzcBxnx3fozK.jpg"group-title="Terror",El Duende Maldito 2
+http://tux-vod.dynu.com/peliculas/720/leprechaun%202.mkv
+#EXTINF:-1 tvg-name="El Duende Maldito 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9NT2smK66pYOjBtmZuKFFTZ478.jpg"group-title="Terror",El Duende Maldito 3
+http://tux-vod.dynu.com/peliculas/720/leprechaun%203.mkv
+#EXTINF:-1 tvg-name="El Duende Maldito 4 : En El Espacio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uMaa4VnNN2TS42tGYu04we7GOM.jpg"group-title="Terror",El Duende Maldito 4 : En El Espacio
+http://tux-vod.dynu.com/peliculas/720/leprechaun%204.mkv
+#EXTINF:-1 tvg-name="El Duende Maldito 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCRwtuxnJWkZ04gwtfYF9h1GUkl.jpg"group-title="Terror",El Duende Maldito 5
+http://tux-vod.dynu.com/peliculas/720/leprechaun%205.mkv
+#EXTINF:-1 tvg-name="El Duende Maldito 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBXtcz92oigWaWnFDyS8j5tMAc1.jpg"group-title="Terror",El Duende Maldito 6
+http://tux-vod.dynu.com/peliculas/720/leprechaun%206.mkv
+#EXTINF:-1 tvg-name="El Exorcismo De Emily Rose(2005)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r1rbz4WeOZXxus57wY9cybkoPgC.jpg"group-title="Terror",El Exorcismo De Emily Rose(2005)
+http://tux-vod.dynu.com/peliculas/720/el%20exorcismo%20de%20emily%20ross.mkv
+#EXTINF:-1 tvg-name="El Exorcista" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gcXOCWdv0ulNxEqV6jvZcUdZZRa.jpg"group-title="Terror",El Exorcista
+http://tux-vod.dynu.com/peliculas/720/el%20exorcista.mkv
+#EXTINF:-1 tvg-name="El Fin de los Tiempos(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v1Cw6WaCjNqInpAzUwbXB4LGgoX.jpg"group-title="Terror",El Fin de los Tiempos(2008)
+http://tux-vod.dynu.com/peliculas/720/the%20happening.mkv
+#EXTINF:-1 tvg-name="EL Habitante(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKIfVrYHy49FpU9k5k6VUFCJQpl.jpg"group-title="Terror",EL Habitante(2017)
+http://tux-vod.dynu.com/peliculas/720/el%20habitante.mkv
+#EXTINF:-1 tvg-name="El Halloween de Hubie (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dHH1TvTUJT6P4n8qgFYrYpAZPdt.jpg"group-title="Terror",El Halloween de Hubie (2020)
+http://vod.tuxchannel.tv/peliculas/720/hubie%20halloween%202020.mkv
+#EXTINF:-1 tvg-name="El Hombre Invisible (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk4RpcvVQ7JmnrkQtZ479EwWieT.jpg"group-title="Terror",El Hombre Invisible (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20invisible%20man%202020.mkv
+#EXTINF:-1 tvg-name="EL Juego de la Muerte(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tl2QZ5jZuB3ohn42GW62aK9wFJc.jpg"group-title="Terror",EL Juego de la Muerte(2016)
+http://tux-vod.dynu.com/peliculas/720/the%20precipice%20game.mkv
+#EXTINF:-1 tvg-name="El Legado del Diablo(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCVCaO5pCXChfXbTcqEqeyj2z9N.jpg"group-title="Terror",El Legado del Diablo(2018)
+http://tux-vod.dynu.com/peliculas/720/el%20legado%20del%20diablo.mkv
+#EXTINF:-1 tvg-name="El Manicomio: La Cuna Del Terror(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNZDcR7ftoM74dQUtCDWvDp5KT.jpg"group-title="Terror",El Manicomio: La Cuna Del Terror(2018)
+http://tux-vod.dynu.com/peliculas/720/heilstatten%202018.mkv
+#EXTINF:-1 tvg-name="El Medallon De La Llorona (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r9QC5RXFnSJ9KTLrafF9eppMZPA.jpg"group-title="Terror",El Medallon De La Llorona (2020)
+http://vod.tuxchannel.tv/peliculas/720/el%20medallon%20de%20la%20llorona%202020.mkv
+#EXTINF:-1 tvg-name="El Muerto Cuenta Su Historia(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aoZDBnz0AQygpOawf7XjcN7bKN.jpg"group-title="Terror",El Muerto Cuenta Su Historia(2016)
+http://tux-vod.dynu.com/peliculas/720/el%20muerto%20cuenta%20su%20historia%202016.mkv
+#EXTINF:-1 tvg-name="El Niño(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NsFoEHa942HqGXj6DPTknX9bv8.jpg"group-title="Terror",El Niño(2016)
+http://tux-vod.dynu.com/peliculas/720/the%20boy.mkv
+#EXTINF:-1 tvg-name="El Ojo Del Mal(2008)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nKLxG1LkqpTXFbyc5lJWaefZzbv.jpg"group-title="Terror",El Ojo Del Mal(2008)
+http://tux-vod.dynu.com/peliculas/720/the%20eye%202008.mkv
+#EXTINF:-1 tvg-name="El Orfanato(2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMQp84tqHSSuzWHvsBYlIUznPjU.jpg"group-title="Terror",El Orfanato(2007)
+http://tux-vod.dynu.com/peliculas/720/el%20orfanato.mkv
+#EXTINF:-1 tvg-name="El Pacto(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PpjBMUOQE7i2feQUqZkT249ZZL.jpg"group-title="Terror",El Pacto(2018)
+http://tux-vod.dynu.com/peliculas/720/el%20pacto.mkv
+#EXTINF:-1 tvg-name="El Payaso Del Mal(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/geB2KS8nJ2HZpT6ao259wYKK4CW.jpg"group-title="Terror",El Payaso Del Mal(2014)
+http://tux-vod.dynu.com/peliculas/720/clown.mkv
+#EXTINF:-1 tvg-name="El Retorno De Los Malditos(2007)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZLNIzwtorC0M9VV9m1qN6HFID9.jpg"group-title="Terror",El Retorno De Los Malditos(2007)
+http://tux-vod.dynu.com/peliculas/720/el%20despertar%20del%20diablo%202.mkv
+#EXTINF:-1 tvg-name="El Rito" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uwlWjzkC9XXP494j4wMqujCigFM.jpg"group-title="Terror",El Rito
+http://tux-vod.dynu.com/peliculas/720/el%20rito.mkv
+#EXTINF:-1 tvg-name="El Silencio (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OXmZnUtBqAO4wVHOmH0cK2e83c.jpg"group-title="Terror",El Silencio (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20silence%202019.mkv
+#EXTINF:-1 tvg-name="El Sótano De Ma (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg"group-title="Terror",El Sótano De Ma (2019)
+http://tux-vod.dynu.com/peliculas/720/ma%202019.mkv
+#EXTINF:-1 tvg-name="El Sotano del Miedo(1991)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/63oTveDo5aMRNPpHalE0V1jAAse.jpg"group-title="Terror",El Sotano del Miedo(1991)
+http://tux-vod.dynu.com/peliculas/720/the%20people%20under%20the%20stairs.mkv
+#EXTINF:-1 tvg-name="El Tercer Ojo 2 (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mdvdjOf3cNEX1dZAbYGQTjTth2X.jpg"group-title="Terror",El Tercer Ojo 2 (2019)
+http://tux-vod.dynu.com/peliculas/720/subtituladas/mata%20batin%202%202019%20sub.mkv
+#EXTINF:-1 tvg-name="El Ultimo Exorcismo 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cJGWoq45CQmy5Rz5AHBZKsl90DS.jpg"group-title="Terror",El Ultimo Exorcismo 2
+http://tux-vod.dynu.com/peliculas/720/el%20ultimo%20exocismo%202.mkv
+#EXTINF:-1 tvg-name="El Último Secreto (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0ns5I7OVE1ZPXZHKINYjVV8DPc.jpg"group-title="Terror",El Último Secreto (2020)
+http://vod.tuxchannel.tv/peliculas/720/la%20cripta%20el%20ultimo%20secreto%202020.mkv
+#EXTINF:-1 tvg-name="El Ultimo Turno(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fBrUODXYBb3lUoitnBzGz81Bo2D.jpg"group-title="Terror",El Ultimo Turno(2014)
+http://tux-vod.dynu.com/peliculas/720/last%20shift.mkv
+#EXTINF:-1 tvg-name="El Vinculo (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbDvrkRsZb4Ik8fg2bJfWZQsXw1.jpg"group-title="Terror",El Vinculo (2020)
+http://vod.tuxchannel.tv/peliculas/720/Il%20legame%202020.mkv
+#EXTINF:-1 tvg-name="Elegida (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxekf7Ufxhubi00h02oWq6gbkWX.jpg"group-title="Terror",Elegida (2020)
+http://vod.tuxchannel.tv/peliculas/720/antebellum%202020.mkv
+#EXTINF:-1 tvg-name="Eli (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIID8uZTYNnSMfWwaIluRTzaZQL.jpg"group-title="Terror",Eli (2019)
+http://tux-vod.dynu.com/peliculas/720/eli%202019.mkv
+#EXTINF:-1 tvg-name="En La Hierba Alta (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hBq8SkRduhzF8B4nwBNbEE1zuOp.jpg"group-title="Terror",En La Hierba Alta (2019)
+http://tux-vod.dynu.com/peliculas/720/in%20the%20tall%20grass%202019.mkv
+#EXTINF:-1 tvg-name="Escalofrios" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUK06JoZAcEiEZSxL4qbZTHx4.jpg"group-title="Terror",Escalofrios
+http://tux-vod.dynu.com/peliculas/720/goosebumps.mkv
+#EXTINF:-1 tvg-name="Escalofrios 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPCgjYPQGWdIBRL05N6PVZOeOZL.jpg"group-title="Terror",Escalofrios 2
+http://tux-vod.dynu.com/peliculas/720/escalofrios%202.mkv
+#EXTINF:-1 tvg-name="Escape Room: Sin Salida(2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9Q1CY5c8q8lzj1uzDduXFf05QA.jpg"group-title="Terror",Escape Room: Sin Salida(2019)
+http://tux-vod.dynu.com/peliculas/720/escape%20room%202019.mkv
+#EXTINF:-1 tvg-name="Estacion Zombie(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/anomz7b3GQtHPFH34SODDBBIUad.jpg"group-title="Terror",Estacion Zombie(2016)
+http://tux-vod.dynu.com/peliculas/720/train%20to%20busan.mkv
+#EXTINF:-1 tvg-name="Evil Dead 1" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/82ezls062PrIaSzds2JKqZ5UYiC.jpg"group-title="Terror",Evil Dead 1
+http://tux-vod.dynu.com/peliculas/720/despertar%20del%20diablo.mkv
+#EXTINF:-1 tvg-name="Evil Dead 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mD0n1FS5LopoKj3icqFyZE4x3lx.jpg"group-title="Terror",Evil Dead 2
+http://tux-vod.dynu.com/peliculas/720/terrorificamente%20muertos.mkv
+#EXTINF:-1 tvg-name="Evil Dead 3 :Ejercito De Las Tinieblas" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCIyhhl11rnIKHjE26YntQAEApi.jpg"group-title="Terror",Evil Dead 3 :Ejercito De Las Tinieblas
+http://tux-vod.dynu.com/peliculas/720/el%20ejercito%20de%20las%20tinieblas.mkv
+#EXTINF:-1 tvg-name="Evil Eye (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3KVwganYfJgrLXu26BuW82BJo73.jpg"group-title="Terror",Evil Eye (2020)
+http://vod.tuxchannel.tv/peliculas/720/evil%20eye%202020.mkv
+#EXTINF:-1 tvg-name="Exorcista Ii: El Hereje" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4CRJen2ZgHylKf8uOdbyCNlmfsb.jpg"group-title="Terror",Exorcista Ii: El Hereje
+http://tux-vod.dynu.com/peliculas/720/exorcist%20II%20the%20heretic.mkv
+#EXTINF:-1 tvg-name="Exterminio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sIGsLU7hMDVKhGKsRFcFxUAtFyT.jpg"group-title="Terror",Exterminio
+http://tux-vod.dynu.com/peliculas/720/28%20days%20later.mkv
+#EXTINF:-1 tvg-name="Feliz Día De Tu Muerte" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWmwvOvsbshDzOz5Zjb73AuAtN1.jpg"group-title="Terror",Feliz Día De Tu Muerte
+http://tux-vod.dynu.com/peliculas/720/happy%20death%20day.mkv
+#EXTINF:-1 tvg-name="Feliz día de tu muerte 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6PSTBNlI9WtfuMlngz82yaudUg.jpg"group-title="Terror",Feliz día de tu muerte 2
+http://tux-vod.dynu.com/peliculas/720/happy%20death%20day%202%202019.mkv
+#EXTINF:-1 tvg-name="Gretel y Hansel (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LB4oRyWWwv08C2xxmbx1wTj7CU.jpg"group-title="Terror",Gretel y Hansel (2020)
+http://tux-vod.dynu.com/peliculas/720/gretel%20and%20hansel%202020.mkv
+#EXTINF:-1 tvg-name="Harbinger Down(2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oM0jDsFUNiuCeqhAx3GlP81YVc.jpg"group-title="Terror",Harbinger Down(2015)
+http://tux-vod.dynu.com/peliculas/720/harbinger%20down.mkv
+#EXTINF:-1 tvg-name="HaunTing Of Alcatraz (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xfv77EkP1CbOCi36LZWuWlvoL4o.jpg"group-title="Terror",HaunTing Of Alcatraz (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20haunting%20of%20alcatraz%202020.mkv
+#EXTINF:-1 tvg-name="Heridas (Wounds) (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0GL9nAza9fuUVSj7m3qTMOD0DG.jpg"group-title="Terror",Heridas (Wounds) (2019)
+http://tux-vod.dynu.com/peliculas/720/wounds%202019.mkv
+#EXTINF:-1 tvg-name="Historias De Miedo Para Contar En La Oscuridad (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg"group-title="Terror",Historias De Miedo Para Contar En La Oscuridad (2019)
+http://tux-vod.dynu.com/peliculas/720/scary%20stories%20to%20tell%20in%20the%20dark%202019.mkv
+#EXTINF:-1 tvg-name="Host (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7dZpJDORYs5c56dydbrLFkEXpE.jpg"group-title="Terror",Host (2020)
+http://vod.tuxchannel.tv/peliculas/720/subtituladas/host%202020%20sub.mkv
+#EXTINF:-1 tvg-name="Inframundo: El Despertar" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkxle3iqeacvt3NC716YflfWxa2.jpg"group-title="Terror",Inframundo: El Despertar
+http://tux-vod.dynu.com/peliculas/720/inframundo%20el%20despertar.mkv
+#EXTINF:-1 tvg-name="Into The Dark My Valentine (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkRShxUNjeC8wzhUEJoFUUZ6gS8.jpg"group-title="Terror",Into The Dark My Valentine (2020)
+http://vod.tuxchannel.tv/peliculas/720/into%20the%20dark%20my%20valentine%202020.mkv
+#EXTINF:-1 tvg-name="Into the Dark The Current Occupant" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zl2oCYmEB0iKWZIVQWOH5Ao5Mo4.jpg"group-title="Terror",Into the Dark The Current Occupant
+http://vod.tuxchannel.tv/peliculas/720/into%20the%20dark%20the%20current%20occupant%202020.mkv
+#EXTINF:-1 tvg-name="It: Capítulo Dos" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9oERKIVyTWpHNum3STVsAGD4ojz.jpg"group-title="Terror",It: Capítulo Dos
+http://tux-vod.dynu.com/peliculas/720/it%20chapter%20two%202019.mkv
+#EXTINF:-1 tvg-name="Jigsaw El juego Continua(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaHuEyGPSEVS731p6jsRCBdEXre.jpg"group-title="Terror",Jigsaw El juego Continua(2017)
+http://tux-vod.dynu.com/peliculas/720/jigsaw.mkv
+#EXTINF:-1 tvg-name="Jugar o Morir (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBT6UQX3qpNz9VAqk40CU5fOzJ1.jpg"group-title="Terror",Jugar o Morir (2019)
+http://tux-vod.dynu.com/peliculas/720/play%20or%20die%202019.mkv
+#EXTINF:-1 tvg-name="Krampus: Maldita Navidad (2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBhZQnvlj0fOwDT6qrTz5f9nsGA.jpg"group-title="Terror",Krampus: Maldita Navidad (2015)
+http://tux-vod.dynu.com/peliculas/720/krampus.mkv
+#EXTINF:-1 tvg-name="La Cabaña Del Terror(2012)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Sjxp3rXLC3UV2Wbgxxu4HwMJK.jpg"group-title="Terror",La Cabaña Del Terror(2012)
+http://tux-vod.dynu.com/peliculas/720/the%20cabin%20in%20the%20woods.mkv
+#EXTINF:-1 tvg-name="La Caja Negra (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSxot0vVOmLsviEdSml1izyiC4g.jpg"group-title="Terror",La Caja Negra (2020)
+http://vod.tuxchannel.tv/peliculas/720/black%20box%202020.mkv
+#EXTINF:-1 tvg-name="La Casa Acecha (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVGhkh4tT3j86CNFYWWErSYQWs7.jpg"group-title="Terror",La Casa Acecha (2020)
+http://vod.tuxchannel.tv/peliculas/720/la%20casa%20acecha%202020.mkv
+#EXTINF:-1 tvg-name="La Casa En La Playa (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4P6nkOajac94vaA2Oio21n2zrvB.jpg"group-title="Terror",La Casa En La Playa (2019)
+http://tux-vod.dynu.com/peliculas/720/la%20casa%20en%20la%20playa%202019.mkv
+#EXTINF:-1 tvg-name="La Cueva(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4OQx9GlkPKFpNSEp4vedPmyC3vU.jpg"group-title="Terror",La Cueva(2014)
+http://tux-vod.dynu.com/peliculas/720/la%20cueva.mkv
+#EXTINF:-1 tvg-name="La Cueva: Descenso Al Infierno(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg"group-title="Terror",La Cueva: Descenso Al Infierno(2016)
+http://tux-vod.dynu.com/peliculas/720/cave.mkv
+#EXTINF:-1 tvg-name="La Cura Siniestra(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwUtIXKyXgkWBzqwyW3uypt31te.jpg"group-title="Terror",La Cura Siniestra(2017)
+http://tux-vod.dynu.com/peliculas/720/a%20cure%20for%20wellness.mkv
+#EXTINF:-1 tvg-name="La Horca 2 (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7gpJfzOPbDjs6NclYOuFq7Z1mu.jpg"group-title="Terror",La Horca 2 (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20gallows%20act%20II%202019.mkv
+#EXTINF:-1 tvg-name="La Influencia (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bYAimIlIHj61v06t2BbBXUdsxy.jpg"group-title="Terror",La Influencia (2019)
+http://tux-vod.dynu.com/peliculas/720/la%20influencia%202019.mkv
+#EXTINF:-1 tvg-name="La Isla de la Fantasia (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l2vgIg9essoPYnyEdmdPqxZC3kp.jpg"group-title="Terror",La Isla de la Fantasia (2020)
+http://vod.tuxchannel.tv/peliculas/720/fantasy%20island%202020%20unrated.mkv
+#EXTINF:-1 tvg-name="La Leyenda Del Jinete Sin Cabeza(1999)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/660DFxWpSfZ1d1PruZ6Nd9vKXNE.jpg"group-title="Terror",La Leyenda Del Jinete Sin Cabeza(1999)
+http://tux-vod.dynu.com/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabeza.mkv
+#EXTINF:-1 tvg-name="La Llorona (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BIWytsnEr2aRobU6ERutzewm63.jpg"group-title="Terror",La Llorona (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20curse%20of%20la%20llorona%202019.mkv
+#EXTINF:-1 tvg-name="La Masacre De Texas 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l5LDUW8fYdDR5B1yJimZ1bAhqCl.jpg"group-title="Terror",La Masacre De Texas 2
+http://tux-vod.dynu.com/peliculas/720/masacre%20en%20texas%202.mkv
+#EXTINF:-1 tvg-name="La Masacre De Texas 2003" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIwa6T0pChP85HHduiDEgsf000R.jpg"group-title="Terror",La Masacre De Texas 2003
+http://tux-vod.dynu.com/peliculas/720/the%20texas%20chainsaw%20massacre%202003.mkv
+#EXTINF:-1 tvg-name="La Masacre De Texas 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg"group-title="Terror",La Masacre De Texas 3
+http://tux-vod.dynu.com/peliculas/720/masacre%20en%20texas%203.mkv
+#EXTINF:-1 tvg-name="La Masacre De Texas: El Inicio" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJs6PlJiayDaUbiyUlTnES1iu3H.jpg"group-title="Terror",La Masacre De Texas: El Inicio
+http://tux-vod.dynu.com/peliculas/720/texas%20chainsaw%20massacre%20the%20beginning%202006.mkv
+#EXTINF:-1 tvg-name="La Masacre De Texas: La Nueva Generación" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1ZIqqx0SlqjaPj3v9P4zSOaXC1.jpg"group-title="Terror",La Masacre De Texas: La Nueva Generación
+http://tux-vod.dynu.com/peliculas/720/texas%20chainsaw%20massacre%20IV%20the%20next%20generation%201994.mkv
+#EXTINF:-1 tvg-name="La Monja(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2JFJ8x0IWligHyuLJbBjqNsySf.jpg"group-title="Terror",La Monja(2018)
+http://tux-vod.dynu.com/peliculas/720/la%20monja.mkv
+#EXTINF:-1 tvg-name="La Niñera: Reina Letal (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePd02d2hWluUppkm7WBfeylsTT2.jpg"group-title="Terror",La Niñera: Reina Letal (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20babysitter%20killer%20queen%202020.mkv
+#EXTINF:-1 tvg-name="La Noche Del Demonio: Capítulo 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xPjn09um3hvGOfd1zYoUp4aDvMJ.jpg"group-title="Terror",La Noche Del Demonio: Capítulo 2
+http://tux-vod.dynu.com/peliculas/720/la%20noche%20del%20demonio%202.mkv
+#EXTINF:-1 tvg-name="La Noche Del Demonio: Capitulo 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnVtVZIiQ59MsZHKhxYenjAIBXo.jpg"group-title="Terror",La Noche Del Demonio: Capitulo 3
+http://tux-vod.dynu.com/peliculas/720/insidious%20chapter%203.mkv
+#EXTINF:-1 tvg-name="La Noche Del Demonio: La Ultima Llave" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cy1zyHNxhiGCoFIlptOpdtEyDak.jpg"group-title="Terror",La Noche Del Demonio: La Ultima Llave
+http://tux-vod.dynu.com/peliculas/720/insidious%20the%20last%20key.mkv
+#EXTINF:-1 tvg-name="La Piel Fria(2017)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFq8b2uFmCNRzpqAOGXw1M9eRe3.jpg"group-title="Terror",La Piel Fria(2017)
+http://tux-vod.dynu.com/peliculas/720/cold%20skin.mkv
+#EXTINF:-1 tvg-name="La Rebelion De Los Muertos(2015)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iO8w6tBjbbSpJU1inQChwa4FGY.jpg"group-title="Terror",La Rebelion De Los Muertos(2015)
+http://tux-vod.dynu.com/peliculas/720/la%20rebelion%20de%20los%20muertos.mkv
+#EXTINF:-1 tvg-name="La Sirena : La Leyenda Jamas Contada(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGFZ84plg0TPM737j8ccpseh96l.jpg"group-title="Terror",La Sirena : La Leyenda Jamas Contada(2018)
+http://tux-vod.dynu.com/peliculas/720/rusalka%20ozero%20myortvykh%202018.mkv
+#EXTINF:-1 tvg-name="Las Brujas (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1y92244iBlKW04rEnaEK8i8tPY.jpg"group-title="Terror",Las Brujas (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20witches%202020.mkv
+#EXTINF:-1 tvg-name="Leprechaun" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIpzSHNX9lQlCKnh1cQwIXDFX5d.jpg"group-title="Terror",Leprechaun
+http://tux-vod.dynu.com/peliculas/720/leprechaun.mkv
+#EXTINF:-1 tvg-name="Leprechaun Retorno" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kToQsV04Jel1ob7VJ471LDz7wD.jpg"group-title="Terror",Leprechaun Retorno
+http://tux-vod.dynu.com/peliculas/720/leprechaun%20returns.mkv
+#EXTINF:-1 tvg-name="Leprechaun: Orings(2014)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyZ7folrZTqEJFD7wUuGf84CmPK.jpg"group-title="Terror",Leprechaun: Orings(2014)
+http://tux-vod.dynu.com/peliculas/720/leprechaun%207%20el%20origen.mkv
+#EXTINF:-1 tvg-name="Los Extraños(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tj2cWlKMKRm1t6MtvBGFWeZ99y.jpg"group-title="Terror",Los Extraños(2016)
+http://tux-vod.dynu.com/peliculas/720/cuidado%20con%20los%20extranos.mkv
+#EXTINF:-1 tvg-name="Los Extraños: Caceria Nocturna(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fnaOYTchtKuAJ78Srw79qwXqvzH.jpg"group-title="Terror",Los Extraños: Caceria Nocturna(2018)
+http://tux-vod.dynu.com/peliculas/720/the%20strangers%20prey%20at%20night.mkv
+#EXTINF:-1 tvg-name="Los Muertos No Mueren(2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYVKIiyE6vK2riNTPtk1XKWejvJ.jpg"group-title="Terror",Los Muertos No Mueren(2019)
+http://tux-vod.dynu.com/peliculas/720/the%20dead%20dont%20die%202019.mkv
+#EXTINF:-1 tvg-name="Los Nuevos Mutantes (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xYn78nOnsxsgaVhXpUgVNK8ePb.jpg"group-title="Terror",Los Nuevos Mutantes (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20new%20mutants%202020.mkv
+#EXTINF:-1 tvg-name="Menéndez: El Día Del Señor (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsQT8B6T7Ot1XJQlj6LxrZ7HjEK.jpg"group-title="Terror",Menéndez: El Día Del Señor (2020)
+http://vod.tuxchannel.tv/peliculas/720/menendez%20el%20dia%20del%20seÃ±or%202020.mkv
+#EXTINF:-1 tvg-name="Mentiras Peligrosas (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/csH6GfdO8TI6M6W5U0PChtRBpvC.jpg"group-title="Terror",Mentiras Peligrosas (2020)
+http://vod.tuxchannel.tv/peliculas/720/dangerous%20lies%202020.mkv
+#EXTINF:-1 tvg-name="Mi Novio Es Un Zombie" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ey7FIv0h4XuhNvABKIMz61Qjs7G.jpg"group-title="Terror",Mi Novio Es Un Zombie
+http://tux-vod.dynu.com/peliculas/720/warm%20bodies.mkv
+#EXTINF:-1 tvg-name="Midsommar (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9lQZUYk25WBpHT9J2PKVfDe1iGl.jpg"group-title="Terror",Midsommar (2019)
+http://tux-vod.dynu.com/peliculas/720/subtituladas/midsommar%202019%20sub.mkv
+#EXTINF:-1 tvg-name="Miedo Profundo(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oL4IGFb1A8EQyOXZkxlRIVaRQhu.jpg"group-title="Terror",Miedo Profundo(2016)
+http://tux-vod.dynu.com/peliculas/720/the%20shallows.mkv
+#EXTINF:-1 tvg-name="Morgue (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0u2fBIPwAi9gM693QaXhV2aoHq.jpg"group-title="Terror",Morgue (2020)
+http://vod.tuxchannel.tv/peliculas/720/morgue%202019.mkv
+#EXTINF:-1 tvg-name="Nadie Duerme En El Bosque Esta Noche (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pZmxz0UaV1yOFsIIYmJhe2vANP.jpg"group-title="Terror",Nadie Duerme En El Bosque Esta Noche (2020)
+http://vod.tuxchannel.tv/peliculas/720/w%20lesie%20dzis%20nie%20zasnie%20nikt%202020.mkv
+#EXTINF:-1 tvg-name="Noche De Bodas (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg"group-title="Terror",Noche De Bodas (2019)
+http://tux-vod.dynu.com/peliculas/720/ready%20or%20not%202019.mkv
+#EXTINF:-1 tvg-name="Nosotros (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kUEbVMrs80nWXtTA8tKd8jRwnIn.jpg"group-title="Terror",Nosotros (2019)
+http://tux-vod.dynu.com/peliculas/720/us%202019.mkv
+#EXTINF:-1 tvg-name="Ouija El Origen Del Mal(2016)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg"group-title="Terror",Ouija El Origen Del Mal(2016)
+http://tux-vod.dynu.com/peliculas/720/ouija%20%20origin%20of%20evil.mkv
+#EXTINF:-1 tvg-name="Pesadilla Al Amanecer (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gWvRsfRh51vvpii5fh9a6rhS7Ib.jpg"group-title="Terror",Pesadilla Al Amanecer (2019)
+http://tux-vod.dynu.com/peliculas/720/rassvet%202019.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kXLpOOMLx4FYb9opougusk0hfg.jpg"group-title="Terror",Pesadilla en la Calle ELM (2010)
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%202010.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5LGy3TK6nMcXfefxucjaBnLjg5.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6D837ivB8EHQMRTlvUBe7ahbUCP.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)2
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%202%20freddys%20revenge.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zUOyVY0cvDHOOUGr3k2bXrN9L0.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)3
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%203%20dream%20warriors.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ssHmDBdbNDtWpVuZ9Zk4W0VWm1c.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)4
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%204%20the%20dream%20master.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r2Vys942SiZIMYf1jckOj9nI6n8.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)5
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%205%20the%20dream%20child.mkv
+#EXTINF:-1 tvg-name="Pesadilla en la Calle ELM (Freddy Krueger)6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dq8Q4SwqIvu2lBPxzMxRu5E6IA1.jpg"group-title="Terror",Pesadilla en la Calle ELM (Freddy Krueger)6
+http://tux-vod.dynu.com/peliculas/720/a%20nightmare%20on%20elm%20street%206.mkv
+#EXTINF:-1 tvg-name="Posesion Infernal(2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8MW6lsIzFsc5u53sO9JeestH0B.jpg"group-title="Terror",Posesion Infernal(2013)
+http://tux-vod.dynu.com/peliculas/720/evil%20dead.mkv
+#EXTINF:-1 tvg-name="Quija-House.-(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLuFHWp2lAJMqLIinspmtBG3c0j.jpg"group-title="Terror",Quija-House.-(2018)
+http://vod.tuxchannel.tv/peliculas/720/ouija%20house%202018.mkv
+#EXTINF:-1 tvg-name="Rec" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tByAcVlUapLjTqdIWkz0QbFqYhS.jpg"group-title="Terror",Rec
+http://tux-vod.dynu.com/peliculas/720/rec%201.mkv
+#EXTINF:-1 tvg-name="Rec 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezWbQjJtCYgpu692haXJaYgRHmZ.jpg"group-title="Terror",Rec 4
+http://tux-vod.dynu.com/peliculas/720/rec%204.mkv
+#EXTINF:-1 tvg-name="Rec II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zuBfXkPxazs6lIfqcDjYyDRsEG5.jpg"group-title="Terror",Rec II
+http://tux-vod.dynu.com/peliculas/720/rec%202.mkv
+#EXTINF:-1 tvg-name="Rec III" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2WKOO1Rt5TuBM0h9Jfpgy8crWP.jpg"group-title="Terror",Rec III
+http://tux-vod.dynu.com/peliculas/720/rec%203.mkv
+#EXTINF:-1 tvg-name="Relic (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3wZ0gxLqsPleneFSTZILmM3BE8Q.jpg"group-title="Terror",Relic (2020)
+http://vod.tuxchannel.tv/peliculas/720/subtituladas/relic%202020%20sub.mkv
+#EXTINF:-1 tvg-name="Resident Evil" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f8kYxuHNkFkhA7I4IKAk8sN9bdY.jpg"group-title="Terror",Resident Evil
+http://tux-vod.dynu.com/peliculas/720/resident%20evil.mkv
+#EXTINF:-1 tvg-name="Residente Evil 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pYyfJwwiR5vl1ZCrni2fVsfqyj.jpg"group-title="Terror",Residente Evil 3
+http://tux-vod.dynu.com/peliculas/720/resident%20evil%20extinction.mkv
+#EXTINF:-1 tvg-name="Residente Evil 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8v08lPZ3TdaPVIqhzqgIQ2WDi8x.jpg"group-title="Terror",Residente Evil 4
+http://tux-vod.dynu.com/peliculas/720/resident%20evil%20afterlife.mkv
+#EXTINF:-1 tvg-name="Residente Evil 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1jwnt0mfZNrYcTlws5nzCaFp5Q.jpg"group-title="Terror",Residente Evil 5
+http://tux-vod.dynu.com/peliculas/720/resident%20evil%20retribution.mkv
+#EXTINF:-1 tvg-name="Residente Evil 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Tqc5bafK2kdY4j8qwVH5zIwIIx.jpg"group-title="Terror",Residente Evil 6
+http://tux-vod.dynu.com/peliculas/720/resident%20evil%20the%20final%20chapter.mkv
+#EXTINF:-1 tvg-name="Saw" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9h1Don5JWNhLMAjspwbiMMoDzS.jpg"group-title="Terror",Saw
+http://tux-vod.dynu.com/peliculas/720/saw%20I.mkv
+#EXTINF:-1 tvg-name="Saw 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/59fXLOUjIvqoJUJm206ewGyCwHj.jpg"group-title="Terror",Saw 2
+http://tux-vod.dynu.com/peliculas/720/saw%20II.mkv
+#EXTINF:-1 tvg-name="Saw 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4O3WHiMsROucozbDrJwljaTZh5C.jpg"group-title="Terror",Saw 3
+http://tux-vod.dynu.com/peliculas/720/saw%20III.mkv
+#EXTINF:-1 tvg-name="Saw 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d8YM09nbc5YkEEqNJV6vNr5mzUC.jpg"group-title="Terror",Saw 4
+http://tux-vod.dynu.com/peliculas/720/saw%20IV.mkv
+#EXTINF:-1 tvg-name="Saw 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rKl79KqLXg60KFyKsLe4wSSjQ08.jpg"group-title="Terror",Saw 5
+http://tux-vod.dynu.com/peliculas/720/saw%20V.mkv
+#EXTINF:-1 tvg-name="Saw 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cM9G0mKHFYbXMiJPyUBUjbwKuda.jpg"group-title="Terror",Saw 6
+http://tux-vod.dynu.com/peliculas/720/saw%20VI.mkv
+#EXTINF:-1 tvg-name="Saw 7" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJzINVqNpsb3W7DA1gmToWbjmrL.jpg"group-title="Terror",Saw 7
+http://tux-vod.dynu.com/peliculas/720/saw%20VII.mkv
+#EXTINF:-1 tvg-name="Scary Movie" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHWR3YplPQWciYzxEity2kyDoDn.jpg"group-title="Terror",Scary Movie
+http://tux-vod.dynu.com/peliculas/720/scary%20movie.mkv
+#EXTINF:-1 tvg-name="Scary Movie 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjsX6YYZEepnuJ6F04MAGGOSdbJ.jpg"group-title="Terror",Scary Movie 5
+http://tux-vod.dynu.com/peliculas/720/scary%20movie%205%20el%20mal%20ya%20viene.mkv
+#EXTINF:-1 tvg-name="Scream" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3jyJq4fNcNljJOVhux7cvCBFui.jpg"group-title="Terror",Scream
+http://tux-vod.dynu.com/peliculas/720/scream%20grita%20antes%20de%20morir.mkv
+#EXTINF:-1 tvg-name="Scream 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/euL23DkvjtVVFVhZ36JmVCZ7BrL.jpg"group-title="Terror",Scream 2
+http://tux-vod.dynu.com/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv
+#EXTINF:-1 tvg-name="Scream 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dEEvUjBFW1JOVoDnJ7LxZRw75Ik.jpg"group-title="Terror",Scream 3
+http://tux-vod.dynu.com/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv
+#EXTINF:-1 tvg-name="Scream 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sr7WNBgjX1UH9yw4Qq4o6GLAyVf.jpg"group-title="Terror",Scream 4
+http://tux-vod.dynu.com/peliculas/720/scream%204.mkv
+#EXTINF:-1 tvg-name="Secuestro Extraterrestre" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg"group-title="Terror",Secuestro Extraterrestre
+http://tux-vod.dynu.com/peliculas/720/alien%20abduction.mkv
+#EXTINF:-1 tvg-name="Seven in Heaven(2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/elReufFR4NYFiBVRsD0wB2F6FDf.jpg"group-title="Terror",Seven in Heaven(2018)
+http://tux-vod.dynu.com/peliculas/720/seven%20in%20heaven%202018.mkv
+#EXTINF:-1 tvg-name="Silent Hill" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg"group-title="Terror",Silent Hill
+http://tux-vod.dynu.com/peliculas/720/silent%20hill.mkv
+#EXTINF:-1 tvg-name="Silent Hill 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3mKCa7NszrLyfKWAVFOd5G527ba.jpg"group-title="Terror",Silent Hill 2
+http://tux-vod.dynu.com/peliculas/720/silent%20hill%20revelation.mkv
+#EXTINF:-1 tvg-name="Su Casa (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg"group-title="Terror",Su Casa (2020)
+http://vod.tuxchannel.tv/peliculas/720/his%20house%202020.mkv
+#EXTINF:-1 tvg-name="Temblores" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fW40zcV28r5I9QCmVHYEYOLSDv3.jpg"group-title="Terror",Temblores
+http://tux-vod.dynu.com/peliculas/720/tremors.mkv
+#EXTINF:-1 tvg-name="Temblores 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg"group-title="Terror",Temblores 2
+http://tux-vod.dynu.com/peliculas/720/tremors%20II.mkv
+#EXTINF:-1 tvg-name="Temblores 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg"group-title="Terror",Temblores 3
+http://tux-vod.dynu.com/peliculas/720/tremors%20III.mkv
+#EXTINF:-1 tvg-name="Temblores 4" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg"group-title="Terror",Temblores 4
+http://tux-vod.dynu.com/peliculas/720/tremors%20IV.mkv
+#EXTINF:-1 tvg-name="Temblores 5" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg"group-title="Terror",Temblores 5
+http://tux-vod.dynu.com/peliculas/720/tremors%205%20bloodlines%202015.mkv
+#EXTINF:-1 tvg-name="Temblores 6" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2YZnTT9zdxRdXBKRb0K7BoM0jF.jpg"group-title="Terror",Temblores 6
+http://tux-vod.dynu.com/peliculas/720/tremors%20a%20cold%20day%20in%20hell%202018.mkv
+#EXTINF:-1 tvg-name="Tempus Tormentum (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZbJ7bDmcKr8GzqoKI00awhjqyH.jpg"group-title="Terror",Tempus Tormentum (2020)
+http://vod.tuxchannel.tv/peliculas/720/tempus%20tormentum%202018.mkv
+#EXTINF:-1 tvg-name="The Boy La Maldicion De Brahms (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eYUqYZwWmLCZ5G6FihLwK2dvhkh.jpg"group-title="Terror",The Boy La Maldicion De Brahms (2020)
+http://vod.tuxchannel.tv/peliculas/720/brahms%20the%20boy%20II%202020.mkv
+#EXTINF:-1 tvg-name="The Car: Road to Revenge (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg"group-title="Terror",The Car: Road to Revenge (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20car%20road%20to%20revenge%202019.mkv
+#EXTINF:-1 tvg-name="The Final Wish (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8RuQDW5TnpD0EUXt3wF4B18P1uw.jpg"group-title="Terror",The Final Wish (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20final%20wish%202019.mkv
+#EXTINF:-1 tvg-name="The Haunting of Sharon Tate (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzIQjfKmrTKf25y3N3VU88bFn8H.jpg"group-title="Terror",The Haunting of Sharon Tate (2019)
+http://tux-vod.dynu.com/peliculas/720/subtituladas/the%20hauntihs%20of%20sahron%20tate%202019%20sub%20gnula.mkv
+#EXTINF:-1 tvg-name="The Hunt (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iBG9q36S4XhJPjttkgUVah19BUg.jpg"group-title="Terror",The Hunt (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20hunt%202020.mkv
+#EXTINF:-1 tvg-name="The Prodigy (2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyejodyk3lWncVjVhhrEkPctY9o.jpg"group-title="Terror",The Prodigy (2019)
+http://tux-vod.dynu.com/peliculas/720/the%20prodigy%202019.mkv
+#EXTINF:-1 tvg-name="The Scientist (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hIkKM1nlzk8DThFT4vxgW1KoofL.jpg"group-title="Terror",The Scientist (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20scientist%202020.mkv
+#EXTINF:-1 tvg-name="The Silencing (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/or4yvzAvMt3K8MHyvoB0cZcTWWy.jpg"group-title="Terror",The Silencing (2020)
+http://vod.tuxchannel.tv/peliculas/720/subtituladas/the%20silencing%202020%20sub.mkv
+#EXTINF:-1 tvg-name="The Soul Conductor (2018)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sam9cFSJknPKW4m4fjwj5idRUkf.jpg"group-title="Terror",The Soul Conductor (2018)
+http://tux-vod.dynu.com/peliculas/720/provodnik%202018.mkv
+#EXTINF:-1 tvg-name="The Turning (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4M3OV9yUxG0bonysqfVsBeWfIG5.jpg"group-title="Terror",The Turning (2020)
+http://vod.tuxchannel.tv/peliculas/720/the%20turning%202020.mkv
+#EXTINF:-1 tvg-name="Tremors: Shrieker Island (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/46qwaON7l11M407rqh8lD4vXcAR.jpg"group-title="Terror",Tremors: Shrieker Island (2020)
 http://vod.tuxchannel.tv/peliculas/720/tremors%20shrieker%20island%202020.mkv
-#EXTINF:-1 tvg-name="Tres Metros Sobre El Cielo(2010)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aiR8Xin8h4XRhxNbMGqVeJSygM.jpg"group-title="Sagas",Tres Metros Sobre El Cielo(2010)
-http://tux-vod.dynu.com/peliculas/720/tres%20metros%20sobre%20el%20cielo.mkv
-#EXTINF:-1 tvg-name="Un Detective Diferente (1994)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg"group-title="Sagas",Un Detective Diferente (1994)
-http://vod.tuxchannel.tv/peliculas/720/ace%20ventura%20pet%20detective.mkv
-#EXTINF:-1 tvg-name="Un Detective Diferente(1994)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nITLSFHonQJGVrnfDzfNqvtbOjO.jpg"group-title="Sagas",Un Detective Diferente(1994)
-http://tux-vod.dynu.com/peliculas/720/ace%20ventura%20pet%20detective.mkv
-#EXTINF:-1 tvg-name="University(2013)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rLfeHGIyDEQsqR22iajGSLFNME.jpg"group-title="Sagas",University(2013)
-http://tux-vod.dynu.com/peliculas/720/monsters%20university.mkv
-#EXTINF:-1 tvg-name="Viernes 13" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/HzrPn1gEHWixfMOvOehOTlHROo.jpg"group-title="Sagas",Viernes 13
+#EXTINF:-1 tvg-name="Vampiros Contra El Bronx (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r55WHmiXzryJA0v5MlrwyFQXRTF.jpg"group-title="Terror",Vampiros Contra El Bronx (2020)
+http://vod.tuxchannel.tv/peliculas/720/vampires%20vs%20the%20bronx%202020.mkv
+#EXTINF:-1 tvg-name="Van Helsing(2004)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gsFun8nATm52aGHeT8ueAel98nE.jpg"group-title="Terror",Van Helsing(2004)
+http://tux-vod.dynu.com/peliculas/720/van%20helsing.mkv
+#EXTINF:-1 tvg-name="Viernes 13" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ckKIBlTyjJ9RSH4tafZhLD5NlKC.jpg"group-title="Terror",Viernes 13
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%201980.mkv
-#EXTINF:-1 tvg-name="Viernes 13 (2)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/W3P5bfp8vDJ0HXG5o35sJ5avMj.jpg"group-title="Sagas",Viernes 13 (2)
+#EXTINF:-1 tvg-name="Viernes 13 (2)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nNlygLc5kLx3bpvtJOdP3ZNhhlu.jpg"group-title="Terror",Viernes 13 (2)
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%202.mkv
-#EXTINF:-1 tvg-name="Viernes 13 (3)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg"group-title="Sagas",Viernes 13 (3)
+#EXTINF:-1 tvg-name="Viernes 13 (3)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/isCTWFTrfnSvkmG0LR8lq6gh3n5.jpg"group-title="Terror",Viernes 13 (3)
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20III.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (4) The Final Chapter" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zt072q8cEtBtsZWwI2jIFuq6B3D.jpg"group-title="Sagas",Viernes 13: (4) The Final Chapter
+#EXTINF:-1 tvg-name="Viernes 13: (4) The Final Chapter" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYSBsTqBR1FGBnahTf3ACyRM3gn.jpg"group-title="Terror",Viernes 13: (4) The Final Chapter
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20the%20final%20chapter.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (5)  A New Beginning" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKOWTkGqZtucGEJuo9Cr60PMROC.jpg"group-title="Sagas",Viernes 13: (5)  A New Beginning
+#EXTINF:-1 tvg-name="Viernes 13: (5)  A New Beginning" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mrq4ZiZs1YoJwO56cdjKibWdD10.jpg"group-title="Terror",Viernes 13: (5)  A New Beginning
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20V.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (6)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg"group-title="Sagas",Viernes 13: (6)
+#EXTINF:-1 tvg-name="Viernes 13: (6)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9RFv2Ulev2lpnQVDHEcTVFon7v.jpg"group-title="Terror",Viernes 13: (6)
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20VI.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (7) The New Blood" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg"group-title="Sagas",Viernes 13: (7) The New Blood
+#EXTINF:-1 tvg-name="Viernes 13: (7) The New Blood" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Tyr422N8ivi9TfA9BAP896Z6Q.jpg"group-title="Terror",Viernes 13: (7) The New Blood
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20VII.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (8) Jason Takes Manhattan" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg"group-title="Sagas",Viernes 13: (8) Jason Takes Manhattan
+#EXTINF:-1 tvg-name="Viernes 13: (8) Jason Takes Manhattan" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sVvP2woMRNNXe70fqTCo78co96V.jpg"group-title="Terror",Viernes 13: (8) Jason Takes Manhattan
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20VIII.mkv
-#EXTINF:-1 tvg-name="Viernes 13: (9) The Final Friday" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r8LNlp5DhQVWiG2IYhaAT8HdGS.jpg"group-title="Sagas",Viernes 13: (9) The Final Friday
+#EXTINF:-1 tvg-name="Viernes 13: (9) The Final Friday" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aacq05foqiWdXqetFv02HBvMoJy.jpg"group-title="Terror",Viernes 13: (9) The Final Friday
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20IX.mkv
-#EXTINF:-1 tvg-name="Viernes 13: Jason X" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qizsVrFGEkfVZ3WvkJb1q95JFVf.jpg"group-title="Sagas",Viernes 13: Jason X
+#EXTINF:-1 tvg-name="Viernes 13: Jason X" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qizsVrFGEkfVZ3WvkJb1q95JFVf.jpg"group-title="Terror",Viernes 13: Jason X
 http://tux-vod.dynu.com/peliculas/720/friday%20the%2013th%20part%20X.mkv
-#EXTINF:-1 tvg-name="Volver Al Futuro" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/drUbeOWuKYarYpD5E0lGnc6lfqf.jpg"group-title="Sagas",Volver Al Futuro
-http://tux-vod.dynu.com/peliculas/720/volver%20al%20futuro.mkv
-#EXTINF:-1 tvg-name="Volver Al Futuro 3" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Sd42pdvz0JcswvBuMlgAAsCJu.jpg"group-title="Sagas",Volver Al Futuro 3
-http://tux-vod.dynu.com/peliculas/720/volver%20al%20futuro%203.mkv
-#EXTINF:-1 tvg-name="Volver Al Futuro II" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t27pmhEZoNFOQUXKJZICNfBoVeS.jpg"group-title="Sagas",Volver Al Futuro II
-http://tux-vod.dynu.com/peliculas/720/volver%20al%20futuro%202.mkv
-#EXTINF:-1 tvg-name="Wolverine: Inmortal" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/emxbSwkuTxZ8arG1YNKlgUjrpGO.jpg"group-title="Sagas",Wolverine: Inmortal
-http://tux-vod.dynu.com/peliculas/720/the%20wolverine.mkv
-#EXTINF:-1 tvg-name="X-Men" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkoAUNLa0lOQ11apLUJ6Oh1EWID.jpg"group-title="Sagas",X-Men
-http://tux-vod.dynu.com/peliculas/720/x%20men%201.mkv
-#EXTINF:-1 tvg-name="X-Men 2" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCZSdycquh4shRfNsrpHovkCSgy.jpg"group-title="Sagas",X-Men 2
-http://tux-vod.dynu.com/peliculas/720/x%20men%202.mkv
-#EXTINF:-1 tvg-name="X-Men Origins: Wolverine" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tzHWNz3jSFqfTsHxUc3Sel75n7.jpg"group-title="Sagas",X-Men Origins: Wolverine
-http://tux-vod.dynu.com/peliculas/720/x%20men%20origins%20wolverine.mkv
-#EXTINF:-1 tvg-name="X-Men: Apocalipsis" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/i5ET4lACwrb97sdPzmIThieasOk.jpg"group-title="Sagas",X-Men: Apocalipsis
-http://tux-vod.dynu.com/peliculas/720/x-men%20apocalipsis.mkv
-#EXTINF:-1 tvg-name="X-Men: Dark Phoenix(2019)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg"group-title="Sagas",X-Men: Dark Phoenix(2019)
-http://tux-vod.dynu.com/peliculas/720/x-men%20dark%20phoenix%202019.mkv
-#EXTINF:-1 tvg-name="X-Men: Días Del Futuro Pasado" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTXFCCgQs3YMOfpZ2I9L99l85LX.jpg"group-title="Sagas",X-Men: Días Del Futuro Pasado
-http://tux-vod.dynu.com/peliculas/720/x%20men%20days%20of%20future%20past.mkv
-#EXTINF:-1 tvg-name="X-Men: Primera Generación" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg"group-title="Sagas",X-Men: Primera Generación
-http://tux-vod.dynu.com/peliculas/720/x%20men%20first%20class.mkv
-#EXTINF:-1 tvg-name="xXx" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/86BnliVDBo2TjKmrgQTJIPHxAKd.jpg"group-title="Sagas",xXx
-http://tux-vod.dynu.com/peliculas/720/xxx.mkv
-#EXTINF:-1 tvg-name="xXx 2: Estado De Emergencia" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjHfn4YuH3MNMwhfQ9ZphQ3R8yP.jpg"group-title="Sagas",xXx 2: Estado De Emergencia
-http://tux-vod.dynu.com/peliculas/720/xxx%20estado%20de%20emergencia.mkv
-#EXTINF:-1 tvg-name="xXx: Reactivado" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rc830XBY2h8HBtHeISpR9qb2PU6.jpg"group-title="Sagas",xXx: Reactivado
-http://tux-vod.dynu.com/peliculas/720/xxx%20return%20of%20xander%20cage.mkv
+#EXTINF:-1 tvg-name="Vivo(2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg"group-title="Terror",Vivo(2020)
+http://vod.tuxchannel.tv/peliculas/720/saraitda%20alive%202020.mkv
+#EXTINF:-1 tvg-name="Voces (2020)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kB1jM3vsbkWBxLo4esCDvgrsZVj.jpg"group-title="Terror",Voces (2020)
+http://vod.tuxchannel.tv/peliculas/720/dont%20listen%202020.mkv
+#EXTINF:-1 tvg-name="Zombieland(2009)" tvg-logo= "https://image.tmdb.org/t/p/w600_and_h900_bestv2/X8UWnlba9KY92Ubg21YbPLs1wU.jpg"group-title="Terror",Zombieland(2009)
+http://tux-vod.dynu.com/peliculas/720/zombieland.mkv
