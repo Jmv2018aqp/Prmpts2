@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Perú" tvg-logo="https://img.panamericana.pe/noticia/2015/05/640-1431355730183.png",Panamericana TV
+#EXTINF:-1 group-title="Perú" tvg-logo="https://img.panamericana.pe/noticia/2015/05/640-1431355730183.png",Panamericana
 https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFv8PkL1iuZaT-fHjhRK6rI4)/dm/3/x774s7s/s/live-3.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://willax.tv/wp-content/uploads/2020/07/Logo-Willax-Optimismo.png",Willax
 https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmp5h7ArL9TGrU-LlqSx_P_c)/dm/3/x7x4dgx/s/live-2.m3u8
@@ -23,6 +23,8 @@ https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8070/8070/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i.imgur.com/Sbv9mq5.png",Microvision 10
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/hermanas-mirabal-tv.jpg" group-title="Perú",HM (720p)
+http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://i0.wp.com/eljuglarnoticias.com.ar/wp-content/uploads/2020/12/KANADE-TAPA.jpg",Canal de Anime KDTV
 http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_01/large.ZeeMundocurrent.png.a56a3b025523ea6ab3bf031178c8e647.png",Zee Mundo
@@ -77,6 +79,7 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 http://167.114.116.212:1935/inkavision/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-RYZMVEsgvkw/X8bgqPkmUHI/AAAAAAAA73Q/AjqyLcVP4L0Lvuo8UOJGP7DpTOUeBIm0gCK8BGAsYHg/s0/2020-12-01.jpg",Turbo Mix TV
 http://167.114.116.212:1935/tvmb/turbomix/playlist.m3u8
+
 #EXTINF:-1 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-UnAggwBiNFY/Xz8np73GkBI/AAAAAAAA4tg/JbU6oq05fN0j4jfNv3E2pr3Jn65rKN_lgCK8BGAsYHg/s0/2020-08-20.png",Mega TV
 https://cp.sradiotv.com:1936/Stream/Stream/playlist.m3u8
 #EXTINF:-1 group-title="Perú" tvg-logo="https://lh3.googleusercontent.com/-DNyXu-b4s7U/Xw5ewsB00fI/AAAAAAAA21g/BxwNdcI3djYxvx4JKkpiGWruGj2DwFNkgCK8BGAsYHg/s0/2020-07-14.png",Rewind TV
