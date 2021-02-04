@@ -1,1 +1,45 @@
-#E
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Canales Temporales ",Disney Channel
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/96859.m3u8?s=K7AaPW_nvgZZwllUyGID_g&e=1612475284
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" group-title="Canales Temporales ",HBO
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lbqtn3.m3u8?s=4qZjG_Pmz6e_V0YZYR0rng&e=1612475108
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Canales Temporales ",HBO Extreme
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/way71f4yp5a3.m3u8?s=OxnmQwx02r8B5aDGkja5IQ&e=1612475219
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canales Temporales ",HBO POP  
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/rvqh1fziz.m3u8?s=Yj-FsdDfJzFZAXcUktdQ7A&e=1612475349
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="Canales Temporales ",Fox Channel
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/0e733j.m3u8?s=Q6PlMYGwBuinuF0qWXq-5g&e=1612475407
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Canales Temporales ",Warner Channel
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/j5uwhfb7w5c.m3u8?s=5jlqKXATugpkdPs2BEIiXQ&e=1612475454
+
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/mx_cinecanal_m.png" group-title="Canales Temporales ",Cinecanal
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/ymv0a1aobkxuf.m3u8?s=Qy-Tb-jKtmUH8SC8SLFpzA&e=1612475534
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png" group-title="Canales Temporales ",Fox Premium 
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/4612rwe.m3u8?s=hriu4qnDpslBd1lolXSAOQ&e=1612475606
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/873344025713033217/ExHy0neU.jpg" group-title="Canales Temporales ",Fox Movies
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/4dtc368405sw4mo.m3u8?s=YQQ5S8IEsNMZstN88IEnYg&e=1612475648
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="Canales Temporales ",Fox Comedy 
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/pnc0det5nknvqo.m3u8?s=ltUgoEpiMowDf49pUDmAwQ&e=1612475699
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Canales Temporales ",Studio Universal
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/rdz85fjy0wuhhv.m3u8?s=SSpavrNIhToDkDT4hewaBQ&e=1612475748
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="Canales Temporales ",AMC
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/md6vp5fj8yj7l1h.m3u8?s=ZRV3eGf-p3p0y32_z3CiCQ&e=1612475800
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/979953513512882176/CYhRbo-9.jpg" group-title="Canales Temporales ",Golden
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/lnxn10nmtnl5.m3u8?s=lOewT0V1Jc1LeX-OllJPqw&e=1612475839
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Comedy_Central_Logo_2011_vertikal.png" group-title="Canales Temporales ",Comedy Central
+https://mwzm2zzeqrk9yxp.ezcdn421.net:8443/hls/4qox4.m3u8?s=mZoSdoBvfOO7pcaDRcOJsQ&e=1612475871
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/1200px-Nick.svg.png" group-title="Canales Temporales ",Mafi2a Tv Music 
+http://cdnnow.goodgame.ru/hls/147714.m3u8
